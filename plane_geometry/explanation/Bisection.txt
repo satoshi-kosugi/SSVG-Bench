@@ -1,0 +1,3 @@
+The segment AB is bisected by drawing intersecting circles of equal radius r > 1/2|AB|, whose centers are the endpoints of the segment. The line determined by the points of intersection of the two circles is the perpendicular bisector of the segment.
+
+https://upload.wikimedia.org/wikipedia/commons/e/e9/Mittelsenkr-ab-konstr-e.svg

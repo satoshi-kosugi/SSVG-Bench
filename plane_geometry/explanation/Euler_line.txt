@@ -1,0 +1,3 @@
+In geometry, the Euler line, named after Leonhard Euler, is a line determined from any triangle that is not equilateral. It is a central line of the triangle, and it passes through several important points determined from the triangle, including the orthocenter, the circumcenter, and the centroid.
+
+https://upload.wikimedia.org/wikipedia/commons/6/65/Triangle.EulerLine.svg

@@ -1,0 +1,3 @@
+In geometry, the Newton–Gauss line (or Gauss–Newton line) is the line joining the midpoints of the three diagonals of a complete quadrilateral.
+
+https://upload.wikimedia.org/wikipedia/commons/0/01/Newton-Gauss_Line_Default_Figure.png

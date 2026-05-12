@@ -1,0 +1,3 @@
+Specifically, let □ABCD be an arbitrary cyclic quadrilateral and let M1, M2, M3, M4 be the incenters of the triangles △ABD, △ABC, △BCD, △ACD. Then the quadrilateral formed by M1, M2, M3, M4 is a rectangle. 
+
+https://upload.wikimedia.org/wikipedia/commons/0/09/Japanese_theorem_2_correct_version_a.svg

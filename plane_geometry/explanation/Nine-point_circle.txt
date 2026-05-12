@@ -1,0 +1,6 @@
+In geometry, the nine-point circle is a circle that can be constructed for any given triangle. It is so named because it passes through nine significant concyclic points defined from the triangle. These nine points are:
+- The midpoint of each side of the triangle
+- The foot of each altitude
+- The midpoint of the line segment from each vertex of the triangle to the orthocenter (where the three altitudes meet; these line segments lie on their respective altitudes).
+
+https://upload.wikimedia.org/wikipedia/commons/5/5f/Triangle.NinePointCircle.svg

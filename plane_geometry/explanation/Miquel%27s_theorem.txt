@@ -1,0 +1,3 @@
+Formally, let ABC be a triangle, with arbitrary points A', B' and C' on sides BC, AC, and AB respectively (or their extensions). Draw three circumcircles (Miquel's circles) to triangles AB'C', A'BC', and A'B'C. Miquel's theorem states that these circles intersect in a single point M.
+
+https://upload.wikimedia.org/wikipedia/commons/f/fe/Miquel_Circles.svg

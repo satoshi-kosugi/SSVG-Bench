@@ -1,0 +1,3 @@
+In geometry, an altitude of a triangle is a line segment through a given vertex (called apex) and perpendicular to a line containing the side or edge opposite the apex. The altitude from A intersects the extended base at D (a point outside the triangle).
+
+https://upload.wikimedia.org/wikipedia/commons/9/97/Projection_formula_%283%29.png

@@ -1,0 +1,7 @@
+In Euclidean geometry, the '''intersecting secants theorem''' or just '''secant theorem''' describes the relation of line segments created by two intersecting secants and the associated circle.
+
+For two lines AD and BC that intersect each other at P and for which ''A'', ''B'', ''C'', ''D'' all lie on the same circle, the following equation holds:
+
+|PA|\cdot|PD| = |PB|\cdot|PC|
+
+https://upload.wikimedia.org/wikipedia/commons/4/48/Secant_theorem.svg

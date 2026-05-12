@@ -1,0 +1,5 @@
+The Apollonius point of a triangle is defined as follows.
+
+Let △ABC be any given triangle. Let the excircles of △ABC opposite to the vertices A, B, C be EA, EB, EC respectively. Let E be the circle which touches the three excircles EA, EB, EC such that the three excircles are within E. Let A', B', C' be the points of contact of the circle E with the three excircles. The lines AA', BB', CC' are concurrent. The point of concurrence is the Apollonius point of △ABC.
+
+https://upload.wikimedia.org/wikipedia/commons/f/fc/Apollonius_point.svg

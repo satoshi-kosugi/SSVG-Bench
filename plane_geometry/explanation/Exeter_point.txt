@@ -1,0 +1,5 @@
+The Exeter point is defined as follows.
+
+Let △ABC be any given triangle. Let the medians through the vertices A, B, C meet the circumcircle of △ABC at A', B', C' respectively. Let △DEF be the triangle formed by the tangents at A, B, C to the circumcircle of △ABC. (Let D be the vertex opposite to the side formed by the tangent at the vertex A, E be the vertex opposite to the side formed by the tangent at the vertex B, and F be the vertex opposite to the side formed by the tangent at the vertex C.) The lines through DA', EB', FC' are concurrent. The point of concurrence is the Exeter point of △ABC.
+
+https://upload.wikimedia.org/wikipedia/commons/4/4c/Exeter_point.svg

@@ -1,0 +1,5 @@
+In geometry, Brahmagupta's theorem states that if a cyclic quadrilateral is orthodiagonal (that is, has perpendicular diagonals), then the perpendicular to a side from the point of intersection of the diagonals always bisects the opposite side.
+
+More specifically, let A, B, C and D be four points on a circle such that the lines AC and BD are perpendicular. Denote the intersection of AC and BD by M. Drop the perpendicular from M to the line BC, calling the intersection E. Let F be the intersection of the line EM and the edge AD. Then, the theorem states that F is the midpoint AD.
+
+https://upload.wikimedia.org/wikipedia/commons/6/64/Brahmaguptra%27s_theorem.svg

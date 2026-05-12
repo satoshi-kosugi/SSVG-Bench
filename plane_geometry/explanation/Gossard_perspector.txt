@@ -1,0 +1,3 @@
+Let ABC be any triangle. Let the Euler line of triangle ABC meet the (possibly extended) sidelines BC, CA and AB of triangle ABC at D, E and F respectively. Let AgBgCg be the triangle formed by the Euler lines of the triangles AEF, BFD and CDE, the vertex Ag being the intersection of the Euler lines of the triangles BFD and CDE, and similarly for the other two vertices. The triangle AgBgCg is called the Gossard triangle of triangle ABC.
+
+https://upload.wikimedia.org/wikipedia/commons/2/29/Gossard_perspector.svg

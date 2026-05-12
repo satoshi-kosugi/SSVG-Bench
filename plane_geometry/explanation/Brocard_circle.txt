@@ -1,0 +1,3 @@
+In geometry, the Brocard circle (or seven-point circle) is a circle derived from a given triangle. It passes through the circumcenter and symmedian point of the triangle, and is centered at the midpoint of the line segment joining them (so that this segment is a diameter).
+
+https://upload.wikimedia.org/wikipedia/commons/9/9e/Brocard_Circle.svg

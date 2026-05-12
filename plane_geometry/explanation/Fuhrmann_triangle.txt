@@ -1,0 +1,5 @@
+The Fuhrmann triangle, named after Wilhelm Fuhrmann (1833–1904), is special triangle based on a given arbitrary triangle.
+
+For a given triangle ABC and its circumcircle, the midpoints of the arcs over triangle sides are denoted by M_{a},M_{b},M_{c}. Those midpoints get reflected at the associated triangle sides yielding the points M_{a}^{\prime},M_{b}^{\prime},M_{c}^{\prime}, which forms the Fuhrmann triangle.
+
+https://upload.wikimedia.org/wikipedia/commons/c/cc/Fuhrmann_triangle.svg

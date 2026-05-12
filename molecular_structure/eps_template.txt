@@ -1,0 +1,91 @@
+Please create an EPS file that visualizes the molecular structure of the compound with the IUPAC name [iupac_name]. Represent each atom as a circle, using colors to indicate atom types. The color mapping for each atom type is provided below, although not all listed types may be present in the molecule. Omit hydrogen atoms from the visualization. Depict bonds between atoms as lines, using a single line for each bond regardless of bond order.
+
+H: [0.39, 0.55, 0.55], B: [0.16, 0.84, 0.16], C: [0.15, 0.29, 0.29], N: [0.0, 0.0, 1.0], O: [1.0, 0.0, 0.0], F: [0.84, 0.13, 0.57], Si: [0.84, 0.62, 0.07], P: [0.84, 0.53, 0.0], S: [0.84, 0.84, 0.0], Cl: [0.16, 0.84, 0.16], Br: [0.84, 0.53, 0.22], Te: [0.84, 0.8, 0.45], I: [1.0, 0.0, 1.0], Eu: [0.0, 0.8, 0.84], Lu: [0.0, 0.8, 0.84], Os: [0.51, 0.55, 0.55], U: [0.0, 0.8, 0.84]
+
+As a reference, an example EPS visualization of the compound chlorobenzene is provided below.
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 10 -29 77 29
+%%Creator: EPS Generator
+%%EndComments
+
+1 setlinewidth
+0 0 0 setrgbcolor
+
+newpath
+20 6.223999999999999 moveto
+28.66 1.224 lineto
+stroke
+
+newpath
+45.980999999999995 1.224 moveto
+37.32 6.223999999999999 lineto
+stroke
+
+newpath
+37.32 6.223999999999999 moveto
+28.66 1.224 lineto
+stroke
+
+newpath
+28.66 1.224 moveto
+28.66 -8.776 lineto
+stroke
+
+newpath
+28.66 -8.776 moveto
+37.32 -13.776 lineto
+stroke
+
+newpath
+37.32 -13.776 moveto
+45.980999999999995 -8.776 lineto
+stroke
+
+newpath
+45.980999999999995 -8.776 moveto
+45.980999999999995 1.224 lineto
+stroke
+
+0.16 0.84 0.16 setrgbcolor
+newpath
+20 6.223999999999999 1.5 0 360 arc
+closepath
+fill
+
+0.15 0.29 0.29 setrgbcolor
+newpath
+45.980999999999995 1.224 1.5 0 360 arc
+closepath
+fill
+
+0.15 0.29 0.29 setrgbcolor
+newpath
+45.980999999999995 -8.776 1.5 0 360 arc
+closepath
+fill
+
+0.15 0.29 0.29 setrgbcolor
+newpath
+37.32 6.223999999999999 1.5 0 360 arc
+closepath
+fill
+
+0.15 0.29 0.29 setrgbcolor
+newpath
+37.32 -13.776 1.5 0 360 arc
+closepath
+fill
+
+0.15 0.29 0.29 setrgbcolor
+newpath
+28.66 1.224 1.5 0 360 arc
+closepath
+fill
+
+0.15 0.29 0.29 setrgbcolor
+newpath
+28.66 -8.776 1.5 0 360 arc
+closepath
+fill
+
+showpage

@@ -1,0 +1,6 @@
+Let X be any triangle center of △ABC.
+
+Draw the lines AX, BX, CX and their reflections in the internal bisectors of the angles at the vertices A, B, C respectively.
+The reflected lines are concurrent and the point of concurrence is the isogonal conjugate Y of X.
+
+https://upload.wikimedia.org/wikipedia/commons/1/18/Construction_of_central_lines.svg

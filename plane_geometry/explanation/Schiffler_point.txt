@@ -1,0 +1,3 @@
+A triangle △ABC with the incenter I has its Schiffler point at the point of concurrence of the Euler lines of the four triangles △BCI, △CAI, △ABI, △ABC.
+
+https://upload.wikimedia.org/wikipedia/commons/2/2b/Schiffler_Point.svg

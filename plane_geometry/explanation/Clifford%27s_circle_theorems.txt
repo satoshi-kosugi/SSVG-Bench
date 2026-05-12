@@ -1,0 +1,3 @@
+The first theorem considers any four circles passing through a common point M and otherwise in general position, meaning that there are six additional points where exactly two of the circles cross and that no three of these crossing points are collinear. Every set of three of these four circles has among them three crossing points (excluding M), and (by the assumption of non-collinearity) there exists a circle passing through these three crossing points. The conclusion is that, like the first set of four circles, the second set of four circles defined in this way all pass through a single point P (in general not the same point as M).
+
+https://upload.wikimedia.org/wikipedia/commons/d/d0/Clifford_circle_theorems.svg

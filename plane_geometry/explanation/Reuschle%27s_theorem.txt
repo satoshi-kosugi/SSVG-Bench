@@ -1,0 +1,3 @@
+In a triangle ABC with its three cevians intersecting in a common point D other than the vertices A, B or C let P_a, P_b and P_c denote the intersections of the (extended) triangle sides and the cevians. The circle defined by the three points P_a, P_b and P_c intersects the (extended) triangle sides in the (additional) points P'_a, P'_b and P'_c. Reuschle's theorem now states that the three new cevians A{P'_a}, B{P'_b} and C{P'_c} intersect in a common point as well. 
+
+https://upload.wikimedia.org/wikipedia/commons/1/16/Satz_von_Reuschle3.svg

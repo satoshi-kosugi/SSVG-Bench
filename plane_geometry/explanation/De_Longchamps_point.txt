@@ -1,0 +1,3 @@
+In geometry, the de Longchamps point of a triangle is a triangle center named after French mathematician Gaston Albert Gohierre de Longchamps. It is the reflection of the orthocenter of the triangle about the circumcenter.
+
+https://upload.wikimedia.org/wikipedia/commons/c/cf/De_Longchamps_point.svg

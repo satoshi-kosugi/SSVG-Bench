@@ -1,0 +1,3 @@
+In geometry, the orthopole of a system consisting of a triangle ABC and a line l in the same plane is a point determined as follows. Let A', B', C' be the feet of perpendiculars dropped on l from A, B, C respectively. Let A'', B'', C'' be the feet of perpendiculars dropped from A', B', C' to the sides opposite A, B, C (respectively) or to those sides' extensions. Then the three lines A' A'', B' B'', C' C'', are concurrent. The point at which they concur is the orthopole.
+
+https://upload.wikimedia.org/wikipedia/commons/2/22/Orthopole.svg

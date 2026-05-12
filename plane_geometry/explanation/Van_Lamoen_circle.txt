@@ -1,0 +1,5 @@
+In Euclidean plane geometry, the van Lamoen circle is a special circle associated with any given triangle T. It contains the circumcenters of the six triangles that are defined inside T by its three medians.
+
+Specifically, let A, B, C be the vertices of T, and let G be its centroid (the intersection of its three medians). Let M_{a}, M_{b}, and M_{c} be the midpoints of the sidelines BC, CA, and AB, respectively. It turns out that the circumcenters of the six triangles AGM_{c}, BGM_{c}, BGM_{a}, CGM_{a}, CGM_{b}, and AGM_{b} lie on a common circle, which is the van Lamoen circle of T.
+
+https://upload.wikimedia.org/wikipedia/commons/5/59/Van_Lamoen_circle.svg

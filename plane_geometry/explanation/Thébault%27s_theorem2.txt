@@ -1,0 +1,3 @@
+Given a square, construct equilateral triangles on two adjacent edges, both inside the square. Then the triangle formed by joining the vertex of the square distant from both triangles and the vertices of the triangles distant from the square is equilateral.
+
+https://upload.wikimedia.org/wikipedia/commons/4/4e/Thebault_1_2_3.svg

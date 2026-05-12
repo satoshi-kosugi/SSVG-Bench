@@ -1,0 +1,5 @@
+Let △DEF be the triangle formed by the intersections of the adjacent angle trisectors of triangle △ABC.
+
+the lines AD, BE, CF are concurrent. The point of concurrence is called the second Morley center of triangle △ABC.
+
+https://upload.wikimedia.org/wikipedia/commons/5/5b/SecondMorleyCenter.svg

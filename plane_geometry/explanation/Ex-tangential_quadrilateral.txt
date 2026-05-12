@@ -1,0 +1,3 @@
+In Euclidean geometry, an ex-tangential quadrilateral is a convex quadrilateral where the extensions of all four sides are tangent to a circle outside the quadrilateral. The circle is called its excircle, its radius the exradius and its center the excenter. The excenter lies at the intersection of six angle bisectors. Two of these are the external angle bisectors at the angles formed where the extensions of opposite sides intersect.
+
+https://upload.wikimedia.org/wikipedia/commons/5/52/Ex-tangential_quadrilateral.png

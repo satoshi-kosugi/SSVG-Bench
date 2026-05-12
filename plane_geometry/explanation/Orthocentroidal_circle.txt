@@ -1,0 +1,3 @@
+In geometry, the orthocentroidal circle of a non-equilateral triangle is the circle that has the triangle's orthocenter and centroid at opposite ends of its diameter.
+
+https://upload.wikimedia.org/wikipedia/commons/e/ef/Orthocentroidal_disk.svg

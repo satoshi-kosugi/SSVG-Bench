@@ -1,0 +1,3 @@
+For a given triangle ABC and a point V not on the sides of that triangle construct a second triangle A'B'C', such that the side A'B' is parallel to the line segment CV, the side A'C' is parallel to the line segment BV and the side B'C' is parallel to the line segment AV. Then the parallel to AB through C', the parallel to BC through A' and the parallel to AC through B' intersect in a common point V'.
+
+https://upload.wikimedia.org/wikipedia/commons/c/cc/Maxwell_theorem2.svg

@@ -1,0 +1,5 @@
+The butterfly theorem is a classical result in Euclidean geometry, which can be stated as follows:
+
+Let M be the midpoint of a chord PQ of a circle, through which two other chords AB and CD are drawn; AD and BC intersect chord PQ at X and Y correspondingly. Then M is the midpoint of XY.
+
+https://upload.wikimedia.org/wikipedia/commons/f/fa/Butterfly_theorem.svg

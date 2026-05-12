@@ -1,0 +1,3 @@
+For a given triangle △ABC, let △{H_A}{H_B}{H_C} be its orthic triangle and △{T_A}{T_B}{T_C} the triangle formed by the outer tangents to its three excircles. These two triangles are similar and the Clawson point is their center of similarity, therefore the three lines {T_A}{H_A}, {T_B}{H_B}, {T_C}{H_C} connecting their vertices meet in a common point, which is the Clawson point.
+
+https://upload.wikimedia.org/wikipedia/commons/3/35/Clawson_punkt3.svg

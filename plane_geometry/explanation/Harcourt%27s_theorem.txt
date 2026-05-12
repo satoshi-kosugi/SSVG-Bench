@@ -1,0 +1,5 @@
+Let a triangle be given with vertices A, B, and C, opposite sides of lengths a, b, and c, area K, and a line that is tangent to the triangle's incircle at any point on that circle. Denote the signed perpendicular distances of the vertices from the line as a', b', and c', with a distance being negative if and only if the vertex is on the opposite side of the line from the incenter. Then
+
+a a' + b b' + c c' = 2K.
+
+https://upload.wikimedia.org/wikipedia/commons/7/71/Harcourt_theorem.svg

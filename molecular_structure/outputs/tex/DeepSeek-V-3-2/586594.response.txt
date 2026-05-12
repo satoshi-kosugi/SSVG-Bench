@@ -1,0 +1,53 @@
+Here’s a TikZ diagram of methyl-phenyl-sulfanyl-sulfanylidene-lambda5-phosphane, using the requested atom colors and omitting hydrogen atoms.
+```tikz
+\documentclass[tikz]{standalone}
+\definecolor{274A4A}{HTML}{274A4A}
+\definecolor{D58600}{HTML}{D58600}
+\definecolor{D5D500}{HTML}{D5D500}
+\begin{document}
+\begin{tikzpicture}[x=1pt,y=1pt]
+
+% Bonds (single lines, all equal style)
+% P=S double bond (drawn as single line as requested)
+\draw[line width=1pt] (0,0) -- (0,-30);
+
+% P-S-CH3
+\draw[line width=1pt] (0,0) -- (25,-10);
+\draw[line width=1pt] (25,-10) -- (45,-20);
+
+% P-S-Ph (phenyl group)
+\draw[line width=1pt] (0,0) -- (-25,-10);
+\draw[line width=1pt] (-25,-10) -- (-45,-5);
+\draw[line width=1pt] (-45,-5) -- (-65,-10);
+\draw[line width=1pt] (-65,-10) -- (-70,-25);
+\draw[line width=1pt] (-70,-25) -- (-55,-35);
+\draw[line width=1pt] (-55,-35) -- (-35,-30);
+\draw[line width=1pt] (-35,-30) -- (-25,-10);
+
+% Atoms (circles)
+% Phosphorus (P) at center
+\filldraw[fill=D58600, draw=none] (0,0) circle (3pt);
+
+% Sulfur (S) of P=S
+\filldraw[fill=D5D500, draw=none] (0,-30) circle (3pt);
+
+% Sulfur (S) of P-S-CH3
+\filldraw[fill=D5D500, draw=none] (25,-10) circle (3pt);
+
+% Methyl carbon (C)
+\filldraw[fill=274A4A, draw=none] (45,-20) circle (3pt);
+
+% Sulfur (S) of P-S-Ph
+\filldraw[fill=D5D500, draw=none] (-25,-10) circle (3pt);
+
+% Phenyl carbons (C)
+\filldraw[fill=274A4A, draw=none] (-45,-5) circle (3pt);
+\filldraw[fill=274A4A, draw=none] (-65,-10) circle (3pt);
+\filldraw[fill=274A4A, draw=none] (-70,-25) circle (3pt);
+\filldraw[fill=274A4A, draw=none] (-55,-35) circle (3pt);
+\filldraw[fill=274A4A, draw=none] (-35,-30) circle (3pt);
+
+\end{tikzpicture}
+\end{document}
+```
+The structure places phosphorus at the center with three connections: a sulfur atom above, a sulfur-bonded methyl group on the right, and a sulfur-bonded phenyl ring on the left. Carbons are shown in dark teal, phosphorus in orange, and sulfurs in yellow, matching your color key.

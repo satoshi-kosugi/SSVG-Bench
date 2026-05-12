@@ -1,0 +1,3 @@
+In geometry, Monge's theorem, named after Gaspard Monge, states that for any three circles in a plane, none of which is completely inside one of the others, the intersection points of each of the three pairs of external tangent lines are collinear.
+
+https://upload.wikimedia.org/wikipedia/commons/b/b0/Monge_theorem.svg

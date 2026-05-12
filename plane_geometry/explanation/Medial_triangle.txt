@@ -1,0 +1,3 @@
+In Euclidean geometry, the medial triangle or midpoint triangle of a triangle △ABC is the triangle with vertices at the midpoints of the triangle's sides AB, AC, BC.
+
+https://upload.wikimedia.org/wikipedia/commons/4/4c/Medial_Triangle.svg

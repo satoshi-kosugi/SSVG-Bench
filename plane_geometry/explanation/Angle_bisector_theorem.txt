@@ -1,0 +1,5 @@
+The exterior angle bisector in A intersects the extended side BC in E, the exterior angle bisector in B intersects the extended side AC in D and the exterior angle bisector in C intersects the extended side AB in F.
+
+The three points of intersection between the exterior angle bisectors and the extended triangle sides D, E, F are collinear, that is they lie on a common line.
+
+https://upload.wikimedia.org/wikipedia/commons/9/99/Aussenwinkelhalbierende2.svg

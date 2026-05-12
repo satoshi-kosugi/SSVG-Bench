@@ -1,0 +1,3 @@
+The median triangle of a given (reference) triangle is a triangle, the sides of which are equal and parallel to the medians of its reference triangle. 
+
+https://upload.wikimedia.org/wikipedia/commons/d/da/Median_triangle.svg

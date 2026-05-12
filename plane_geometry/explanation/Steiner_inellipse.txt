@@ -1,0 +1,3 @@
+In geometry, the Steiner inellipse, midpoint inellipse, or midpoint ellipse of a triangle is the unique ellipse inscribed in the triangle and tangent to the sides at their midpoints. It is an example of an inellipse.
+
+https://upload.wikimedia.org/wikipedia/commons/0/0a/Steiner_Inellipse.svg

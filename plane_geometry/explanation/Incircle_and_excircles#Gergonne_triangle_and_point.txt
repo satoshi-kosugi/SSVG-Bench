@@ -1,0 +1,5 @@
+The Gergonne triangle (of \triangle ABC) is defined by the three touchpoints of the incircle on the three sides. The touchpoint opposite A is denoted T_A, etc.
+
+The three lines A{T_A}, B{T_B}, and C{T_C} intersect in a single point called the Gergonne point, denoted as G_e. 
+
+https://upload.wikimedia.org/wikipedia/commons/d/d8/Intouch_Triangle_and_Gergonne_Point.svg

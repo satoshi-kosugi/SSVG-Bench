@@ -1,0 +1,3 @@
+In geometry, the Bevan point, named after Benjamin Bevan, is a triangle center. It is defined as center of the Bevan circle, that is the circle through the centers of the three excircles of a triangle.
+
+https://upload.wikimedia.org/wikipedia/commons/f/fc/Bevan_punkt.svg

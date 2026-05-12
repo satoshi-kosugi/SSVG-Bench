@@ -1,0 +1,5 @@
+Let O be a circle of radius R. Let O_1, O_2, O_3, O_4 be (in that order) four non-intersecting circles that lie inside O and tangent to it. Denote by t_{ij} the length of the exterior common bitangent of the circles O_i, O_j. Then:
+
+t_{12} \cdot t_{34}+t_{14} \cdot t_{23}=t_{13}\cdot t_{24}.
+
+https://upload.wikimedia.org/wikipedia/commons/f/fc/Casey_new1a.svg

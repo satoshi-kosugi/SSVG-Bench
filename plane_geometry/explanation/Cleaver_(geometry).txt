@@ -1,0 +1,4 @@
+In geometry, a cleaver of a triangle is a line segment that bisects the perimeter of the triangle and has one endpoint at the midpoint of one of the three sides. 
+Each cleaver through the midpoint of one of the sides of a triangle is parallel to the angle bisectors at the opposite vertex of the triangle. A triangle has three cleavers.
+
+https://upload.wikimedia.org/wikipedia/commons/0/0f/CleavanceCenter.svg

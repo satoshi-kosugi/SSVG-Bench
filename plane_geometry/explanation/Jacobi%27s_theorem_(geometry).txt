@@ -1,0 +1,7 @@
+In plane geometry, a '''Jacobi point''' is a point in the Euclidean plane determined by a triangle △ABC and a triple of angles \alpha, \beta, \gamma. This information is sufficient to determine three points X, Y, Z such that 
+\angle ZAB = \angle YAC = \alpha, \\
+\angle XBC = \angle ZBA = \beta, \\
+\angle YCA = \angle XCB = \gamma. 
+Then, by a theorem of Karl Friedrich Andreas Jacobi, the lines AX, BY, CZ are concurrent, at a point N called the Jacobi point.
+
+https://upload.wikimedia.org/wikipedia/commons/8/8d/GeneralisationOfNapoleonPoint.svg

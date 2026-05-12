@@ -1,0 +1,3 @@
+Let A,B,C be the three vertices of a triangle, and let a,b,c be the lengths of the opposite sides, and {\textstyle s={\tfrac {1}{2}}(a+b+c)} be the semiperimeter. Then the three circles centered at A,B,C have radii s-a,s-b,s-c, respectively. By Descartes' theorem, two more circles, sometimes also called Soddy circles, are tangent to these three circles. 
+
+https://upload.wikimedia.org/wikipedia/commons/0/05/Outer_soddy_center_as_equal_detour_point.png

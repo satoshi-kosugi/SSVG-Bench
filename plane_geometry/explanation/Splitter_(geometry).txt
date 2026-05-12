@@ -1,0 +1,5 @@
+In Euclidean geometry, a splitter is a line segment through one of the vertices of a triangle (that is, a cevian) that bisects the perimeter of the triangle.
+
+The opposite endpoint of a splitter to the chosen triangle vertex lies at the point on the triangle's side where one of the excircles of the triangle is tangent to that side. Each triangle has three splitters, one through each vertex.
+
+https://upload.wikimedia.org/wikipedia/commons/5/5f/Extouch_Triangle_and_Nagel_Point.svg

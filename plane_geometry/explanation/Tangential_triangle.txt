@@ -1,0 +1,3 @@
+In geometry, the tangential triangle of a reference triangle (other than a right triangle) is the triangle whose sides are on the tangent lines to the reference triangle's circumcircle at the reference triangle's vertices.
+
+https://upload.wikimedia.org/wikipedia/commons/c/ca/Tangential_triangle.svg

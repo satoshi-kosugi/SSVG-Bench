@@ -1,0 +1,26 @@
+Please create a TikZ file that visualizes the molecular structure of the compound with the IUPAC name [iupac_name]. Represent each atom as a circle, using colors to indicate atom types. The color mapping for each atom type is provided below, although not all listed types may be present in the molecule. Omit hydrogen atoms from the visualization. Depict bonds between atoms as lines, using a single line for each bond regardless of bond order.
+
+H: #638c8c, B: #2AD52A, C: #274A4A, N: #0000FF, O: #FF0000, F: #D52092, Si: #D59E13, P: #D58600, S: #D5D500, Cl: #2AD52A, Br: #D58639, Te: #D5CD72, I: #FF00FF, Eu: #00CCD5, Lu: #00CCD5, Os: #838C8C, U: #00CCD5
+
+As a reference, an example TikZ visualization of the compound chlorobenzene is provided below.
+\documentclass[tikz]{standalone}
+\definecolor{274A4A}{HTML}{274A4A}
+\definecolor{2AD52A}{HTML}{2AD52A}
+\begin{document}
+\begin{tikzpicture}[x=1pt,y=1pt]
+  \draw[line width=1pt] (20.00,6.22) -- (28.66,1.22);
+  \draw[line width=1pt] (45.98,1.22) -- (45.98,-8.78);
+  \draw[line width=1pt] (45.98,1.22) -- (37.32,6.22);
+  \draw[line width=1pt] (45.98,-8.78) -- (37.32,-13.78);
+  \draw[line width=1pt] (37.32,6.22) -- (28.66,1.22);
+  \draw[line width=1pt] (37.32,-13.78) -- (28.66,-8.78);
+  \draw[line width=1pt] (28.66,1.22) -- (28.66,-8.78);
+  \filldraw[fill=2AD52A, draw=none] (20.00,6.22) circle (1.5pt);
+  \filldraw[fill=274A4A, draw=none] (45.98,1.22) circle (1.5pt);
+  \filldraw[fill=274A4A, draw=none] (45.98,-8.78) circle (1.5pt);
+  \filldraw[fill=274A4A, draw=none] (37.32,6.22) circle (1.5pt);
+  \filldraw[fill=274A4A, draw=none] (37.32,-13.78) circle (1.5pt);
+  \filldraw[fill=274A4A, draw=none] (28.66,1.22) circle (1.5pt);
+  \filldraw[fill=274A4A, draw=none] (28.66,-8.78) circle (1.5pt);
+\end{tikzpicture}
+\end{document}

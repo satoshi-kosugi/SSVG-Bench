@@ -1,0 +1,5 @@
+Given an arbitrary triangle with two arbitrary parallelograms attached to two of its sides the theorem tells how to construct a parallelogram over the third side, such that the area of the third parallelogram equals the sum of the areas of the other two parallelograms.
+
+Let ABC be the arbitrary triangle and ABDE and ACFG the two arbitrary parallelograms attached to the triangle sides AB and AC. The extended parallelogram sides DE and FG intersect at H. The line segment AH now "becomes" the side of the third parallelogram BCML attached to the triangle side BC, i.e., one constructs line segments BL and CM over BC, such that BL and CM are a parallel and equal in length to AH.
+
+https://upload.wikimedia.org/wikipedia/commons/b/b1/Pappus_area_theorem_proof2.svg

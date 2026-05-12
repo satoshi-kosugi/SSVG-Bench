@@ -1,0 +1,3 @@
+In geometry, a median of a triangle is a line segment joining a vertex to the midpoint of the opposite side, thus bisecting that side. Every triangle has exactly three medians, one from each vertex, and they all intersect at the triangle's centroid.
+
+https://upload.wikimedia.org/wikipedia/commons/5/5e/Triangle.Centroid.svg

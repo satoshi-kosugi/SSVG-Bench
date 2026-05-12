@@ -1,0 +1,5 @@
+The Taylor circle is a special circle associated with a triangle. 
+
+Consider the three feet of the three altitudes of triangle. For each foot of an altitude construct the perpendiculars onto the two other triangles sides. The intersections of those perpendiculars with the triangles sides yield six points and those six points are located on a common circle, the Taylor circle.
+
+https://upload.wikimedia.org/wikipedia/commons/5/54/Taylor-Kreis.svg

@@ -1,0 +1,7 @@
+In Euclidean geometry, the '''intersecting chords theorem''', or just the '''chord theorem''', is a statement that describes a relation of the four line segments created by two intersecting chords within a circle. 
+It states that the products of the lengths of the line segments on each chord are equal. 
+
+More precisely, for two chords AC and BD intersecting in a point S the following equation holds:
+|AS|\cdot|SC|=|BS|\cdot|SD|
+
+https://upload.wikimedia.org/wikipedia/commons/5/5f/Chord_theorem.svg

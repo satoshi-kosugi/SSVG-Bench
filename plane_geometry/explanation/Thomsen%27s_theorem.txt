@@ -1,0 +1,3 @@
+Consider an arbitrary triangle ABC with a point P1 on its edge BC. A sequence of points and parallel lines is constructed as follows. The parallel line to AC through P1 intersects AB in P2 and the parallel line to BC through P2 intersects AC in P3. Continuing in this fashion the parallel line to AB through P3 intersects BC in P4 and the parallel line to AC through P4 intersects AB in P5. Finally the parallel line to BC through P5 intersects AC in P6 and the parallel line to AB through P6 intersects BC in P7. Thomsen's theorem now states that P7 is identical to P1 and hence the construction always leads to a closed path P1P2P3P4P5P6P1
+
+https://upload.wikimedia.org/wikipedia/commons/b/b5/Satz_von_Thomsen.svg

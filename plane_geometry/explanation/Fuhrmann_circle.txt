@@ -1,0 +1,3 @@
+In geometry, the Fuhrmann circle of a triangle, named after the German Wilhelm Fuhrmann (1833–1904), is the circle that has as a diameter the line segment between the orthocenter H and the Nagel point N. 
+
+https://upload.wikimedia.org/wikipedia/commons/b/bf/Fuhrmann_circle.svg

@@ -1,0 +1,5 @@
+Let △DEF be the triangle formed by the intersections of the adjacent angle trisectors of triangle △ABC.
+
+The centroid of △DEF is called the first Morley center of △ABC.
+
+https://upload.wikimedia.org/wikipedia/commons/f/fc/FirstMorleyCenter.svg

@@ -1,0 +1,3 @@
+Given any parallelogram, construct on its sides four squares external to the parallelogram. The quadrilateral formed by joining the centers of those four squares is a square.
+
+https://upload.wikimedia.org/wikipedia/commons/4/4e/Thebault_1_2_3.svg

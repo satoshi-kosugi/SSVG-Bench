@@ -1,0 +1,21 @@
+Please create an SVG file that visualizes the molecular structure of the compound with the IUPAC name [iupac_name]. Represent each atom as a circle, using colors to indicate atom types. The color mapping for each atom type is provided below, although not all listed types may be present in the molecule. Omit hydrogen atoms from the visualization. Depict bonds between atoms as lines, using a single line for each bond regardless of bond order.
+
+H: #638c8c, B: #2AD52A, C: #274A4A, N: #0000FF, O: #FF0000, F: #D52092, Si: #D59E13, P: #D58600, S: #D5D500, Cl: #2AD52A, Br: #D58639, Te: #D5CD72, I: #FF00FF, Eu: #00CCD5, Lu: #00CCD5, Os: #838C8C, U: #00CCD5
+
+As a reference, an example SVG visualization of the compound chlorobenzene is provided below.
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="10 -29.976 67.479 59.646">
+<line x1="20" y1="6.223999999999999" x2="28.66" y2="1.224" stroke="black" stroke-width="1" />
+<line x1="45.980999999999995" y1="1.224" x2="45.980999999999995" y2="-8.776" stroke="black" stroke-width="1" />
+<line x1="45.980999999999995" y1="1.224" x2="37.32" y2="6.223999999999999" stroke="black" stroke-width="1" />
+<line x1="45.980999999999995" y1="-8.776" x2="37.32" y2="-13.776" stroke="black" stroke-width="1" />
+<line x1="37.32" y1="6.223999999999999" x2="28.66" y2="1.224" stroke="black" stroke-width="1" />
+<line x1="37.32" y1="-13.776" x2="28.66" y2="-8.776" stroke="black" stroke-width="1" />
+<line x1="28.66" y1="1.224" x2="28.66" y2="-8.776" stroke="black" stroke-width="1" />
+<circle cx="20" cy="6.223999999999999" r="1.5" fill="#2AD52A" />
+<circle cx="45.980999999999995" cy="1.224" r="1.5" fill="#274A4A" />
+<circle cx="45.980999999999995" cy="-8.776" r="1.5" fill="#274A4A" />
+<circle cx="37.32" cy="6.223999999999999" r="1.5" fill="#274A4A" />
+<circle cx="37.32" cy="-13.776" r="1.5" fill="#274A4A" />
+<circle cx="28.66" cy="1.224" r="1.5" fill="#274A4A" />
+<circle cx="28.66" cy="-8.776" r="1.5" fill="#274A4A" />
+</svg>

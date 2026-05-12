@@ -1,0 +1,3 @@
+For two nonintersecting circles c_P and c_Q centered at P and Q the tangents from P onto c_Q intersect c_P at A and B and the tangents from Q onto c_P intersect c_Q at C and D. Then |AB| = |CD|.
+
+https://upload.wikimedia.org/wikipedia/commons/b/bf/Eyeball_theorem_variation.svg

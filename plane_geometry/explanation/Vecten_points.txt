@@ -1,0 +1,3 @@
+Let △ABC be any given plane triangle. On the sides BC, CA, AB of the triangle, construct outwardly drawn three squares with centres Oa, Ob, Oc respectively. Then the lines AOa, BOb, COc are concurrent. The point of concurrence is the outer Vecten point of △ABC.
+
+https://upload.wikimedia.org/wikipedia/commons/a/a0/Vectenpoints.svg

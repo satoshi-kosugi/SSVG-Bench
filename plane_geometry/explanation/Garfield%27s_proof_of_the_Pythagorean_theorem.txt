@@ -1,0 +1,15 @@
+ABC is a right-angled triangle with right angle at C. The side-lengths of the triangle are a,b,c. Pythagorean theorem asserts that c^2=a^2+b^2.
+
+To prove the theorem, Garfield drew a line through B perpendicular to AB and on this line chose a point D such that BD=BA. Then, from  D he dropped a perpendicular DE upon the extended line CB. From the figure, one can easily see that the triangles ABC and  BDE are congruent. Since AC and DE are both perpendicular to CE, they are parallel and so the quadrilateral ACED is a trapezoid. The theorem is proved by computing the area of this trapezoid in two different ways.
+
+\text{area of trapezoid } ACED = \text{height}\times \text{average of parallel sides} = CE\times\tfrac{1}{2}(AC+DE) = (a+b)\times \tfrac{1}{2}(a+b)
+
+\text{area of trapezoid } ACED = \text{area of }\Delta ACB + \text{area of } \Delta ABD + \text{area of } \Delta BDE = \tfrac{1}{2}(a\times b) + \tfrac{1}{2}(c\times c) + \tfrac{1}{2}(a\times b)
+
+From these one gets
+(a+b)\times \tfrac{1}{2}(a+b) = \tfrac{1}{2}(a\times b) + \tfrac{1}{2}(c\times c) + \tfrac{1}{2}(a\times b)
+
+which on simplification yields
+a^2+b^2=c^2
+
+https://upload.wikimedia.org/wikipedia/commons/f/f2/Garfield_Proof.png

@@ -1,0 +1,40 @@
+I will generate an SVG showing the molecular structure of methyl‑phenyl‑sulfanyl‑sulfanylidene‑λ⁵‑phosphane, using colored circles for atoms and lines for bonds.
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -30 100 70" width="100%" height="100%">
+  <!-- Bonds (single lines) -->
+  <!-- P=S double bond shown as single line per instruction -->
+  <line x1="50" y1="0" x2="70" y2="10" stroke="black" stroke-width="1.5" />
+  <!-- P-S bonds -->
+  <line x1="50" y1="0" x2="30" y2="10" stroke="black" stroke-width="1.5" />
+  <line x1="50" y1="0" x2="50" y2="-20" stroke="black" stroke-width="1.5" />
+  <!-- S-C (methyl) -->
+  <line x1="70" y1="10" x2="85" y2="0" stroke="black" stroke-width="1.5" />
+  <!-- S-C (phenyl) -->
+  <line x1="30" y1="10" x2="15" y2="0" stroke="black" stroke-width="1.5" />
+  <!-- Phenyl ring bonds -->
+  <line x1="15" y1="0" x2="5" y2="-5" stroke="black" stroke-width="1.5" />
+  <line x1="5" y1="-5" x2="5" y2="-15" stroke="black" stroke-width="1.5" />
+  <line x1="5" y1="-15" x2="15" y2="-20" stroke="black" stroke-width="1.5" />
+  <line x1="15" y1="-20" x2="25" y2="-15" stroke="black" stroke-width="1.5" />
+  <line x1="25" y1="-15" x2="25" y2="-5" stroke="black" stroke-width="1.5" />
+  <line x1="25" y1="-5" x2="15" y2="0" stroke="black" stroke-width="1.5" />
+  
+  <!-- Atoms -->
+  <!-- Phosphorus (P) #D58600 -->
+  <circle cx="50" cy="0" r="4" fill="#D58600" />
+  <!-- Sulfur (S) in S-P #D5D500 -->
+  <circle cx="70" cy="10" r="4" fill="#D5D500" />
+  <!-- Sulfur (S) in S-P #D5D500 -->
+  <circle cx="30" cy="10" r="4" fill="#D5D500" />
+  <!-- Carbon (C) methyl #274A4A -->
+  <circle cx="85" cy="0" r="3.5" fill="#274A4A" />
+  <!-- Carbon (C) phenyl #274A4A -->
+  <circle cx="15" cy="0" r="3.5" fill="#274A4A" />
+  <circle cx="5" cy="-5" r="3.5" fill="#274A4A" />
+  <circle cx="5" cy="-15" r="3.5" fill="#274A4A" />
+  <circle cx="15" cy="-20" r="3.5" fill="#274A4A" />
+  <circle cx="25" cy="-15" r="3.5" fill="#274A4A" />
+  <circle cx="25" cy="-5" r="3.5" fill="#274A4A" />
+</svg>
+```
+The structure centers on a phosphorus atom bonded to two sulfur groups, one methyl carbon, and a six-membered phenyl ring. Atoms are differentiated by the requested color scheme, and hydrogens are omitted to keep the diagram clear.

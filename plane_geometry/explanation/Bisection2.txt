@@ -1,0 +1,3 @@
+To bisect an angle with straightedge and compass, one draws a circle whose center is the vertex. The circle meets the angle at two points: one on each leg. Using each of these points as a center, draw two circles of the same size. The intersection of the circles (two points) determines a line that is the angle bisector.
+
+https://upload.wikimedia.org/wikipedia/commons/1/14/Bisection_construction.gif

@@ -1,0 +1,3 @@
+The circumcircles of all four triangles of a complete quadrilateral meet at a point M.
+
+https://upload.wikimedia.org/wikipedia/commons/b/bd/Miquelquad.svg

@@ -1,0 +1,3 @@
+For a triangle △ABC, its circumcircle intersects each of its three excircles in two points. The three lines through those points of intersections form a triangle △A'B'C'. This triangle and △ABC are perspective triangles with the Clawson point being their perspective center. Hence the three lines AA', BB', CC' meet in the Clawson point.
+
+https://upload.wikimedia.org/wikipedia/commons/4/45/Clawson_punkt2.svg

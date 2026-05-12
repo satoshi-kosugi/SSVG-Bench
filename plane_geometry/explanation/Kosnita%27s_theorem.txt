@@ -1,0 +1,5 @@
+In Euclidean geometry, Kosnita's theorem is a property of certain circles associated with an arbitrary triangle.
+
+Let ABC be an arbitrary triangle, O its circumcenter and O_{a},O_{b},O_{c} are the circumcenters of three triangles OBC, OCA, and OAB respectively. The theorem claims that the three straight lines AO_{a}, BO_{b}, and CO_{c} are concurrent.
+
+https://upload.wikimedia.org/wikipedia/commons/2/28/Kosnita_points.svg

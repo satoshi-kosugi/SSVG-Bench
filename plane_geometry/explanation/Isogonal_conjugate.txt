@@ -1,0 +1,3 @@
+In geometry, the isogonal conjugate of a point P with respect to a triangle △ABC is constructed by reflecting the lines PA, PB, PC about the angle bisectors of A, B, C respectively. These three reflected lines concur at the isogonal conjugate of P.
+
+https://upload.wikimedia.org/wikipedia/commons/b/b2/Isogonal_Conjugate.svg

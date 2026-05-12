@@ -1,0 +1,6 @@
+The theorem can be proved algebraically using four copies of the same triangle arranged symmetrically around a square with side c. This results in a larger square, with side a+b and area (a+b)^2. The four triangles and the square side c must have the same area as the larger square,
+(b+a)^2 = c^2 + 4*1/2ab = c^2+2ab,
+giving
+c^2 = (b+a)^2 - 2ab = b^2+2ab+a^2-2ab = a^2 + b^2.
+
+https://upload.wikimedia.org/wikipedia/commons/5/50/Pythagoras_algebraic2.svg

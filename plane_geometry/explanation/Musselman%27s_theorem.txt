@@ -1,0 +1,3 @@
+Let T be a triangle, and A, B, and C its vertices.  Let A^*, B^*, and C^* be the vertices of the reflection triangle T^*, obtained by mirroring each vertex of T across the opposite side. Let O be the circumcenter of T. Consider the three circumcircles S_A, S_B, and S_C defined by the triangles AOA^*, BOB^*, and COC^*, respectively.  The theorem says that these three circumcircles meet in a point M.
+
+https://upload.wikimedia.org/wikipedia/commons/5/53/Musselman_theorem.svg

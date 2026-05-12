@@ -1,0 +1,3 @@
+In Euclidean geometry the Newton line is the line that connects the midpoints of the two diagonals in a convex quadrilateral with at most two parallel sides.
+
+https://upload.wikimedia.org/wikipedia/commons/2/2c/Newton_line.svg

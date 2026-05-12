@@ -1,0 +1,3 @@
+Given a triangle △ABC, let T_A, T_B, T_C be the extouch points in which the A-excircle meets line BC, the B-excircle meets line CA, and the C-excircle meets line AB, respectively. The lines A{T_A}, B{T_B}, C{T_C} concur in the Nagel point N of triangle △ABC.
+
+https://upload.wikimedia.org/wikipedia/commons/5/5f/Extouch_Triangle_and_Nagel_Point.svg

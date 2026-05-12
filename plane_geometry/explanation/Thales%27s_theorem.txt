@@ -1,0 +1,3 @@
+In geometry, Thales's theorem states that if A, B, and C are distinct points on a circle where the line AC is a diameter, the angle ∠ ABC is a right angle.
+
+https://upload.wikimedia.org/wikipedia/commons/4/44/Thales%27_Theorem_Simple.svg

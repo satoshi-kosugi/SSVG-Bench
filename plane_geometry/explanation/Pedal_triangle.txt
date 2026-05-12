@@ -1,0 +1,5 @@
+In plane geometry, a pedal triangle is obtained by projecting a point onto the sides of a triangle.
+
+More specifically, consider a triangle △ABC, and a point P that is not one of the vertices A, B, C. Drop perpendiculars from P to the three sides of the triangle (these may need to be produced, i.e., extended). Label L, M, N the intersections of the lines from P with the sides BC, AC, AB. The pedal triangle is then △LMN.
+
+https://upload.wikimedia.org/wikipedia/commons/6/61/Pedal_Triangle.svg

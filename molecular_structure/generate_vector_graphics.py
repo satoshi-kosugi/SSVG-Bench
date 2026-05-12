@@ -294,22 +294,15 @@ def main():
         '--output-dir', default='outputs',
         help='Directory where outputs will be saved.'
     )
-    parser.add_argument(
-        '--prompting', default=None,
-        help='Optional suffix used in the output directory name.'
-    )
 
     args = parser.parse_args()
 
     vector_type = args.vector_type
 
-    if args.prompting is None:
-        model_output_dir = os.path.join(args.output_dir, vector_type, args.model.replace(' ', '_'))
-    else:
-        model_output_dir = os.path.join(args.output_dir, vector_type, args.model.replace(' ', '_')+"_"+args.prompting)
+    model_output_dir = os.path.join(args.output_dir, vector_type, args.model.replace(' ', '_'))
     os.makedirs(model_output_dir, exist_ok=True)
 
-    with open("pubchem_compounds_filtered.json", "r", encoding="utf-8") as f:
+    with open("pubchem_compounds.json", "r", encoding="utf-8") as f:
         compounds = json.load(f)
 
     for compound in compounds:

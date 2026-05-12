@@ -1,0 +1,3 @@
+In geometry, given a triangle ABC and a point P on its circumcircle, the three closest points to P on lines AB, AC, and BC are collinear. The line through these points is the Simson line of P, named for Robert Simson.
+
+https://upload.wikimedia.org/wikipedia/commons/f/f7/Pedal_Line.svg

@@ -1,0 +1,7 @@
+In plane geometry, a triangle ABC contains a triangle having one-seventh of the area of ABC, which is formed as follows: the sides of this triangle lie on cevians p, q, r where
+
+p connects A to a point on BC that is one-third the distance from B to C,
+q connects B to a point on CA that is one-third the distance from C to A,
+r connects C to a point on AB that is one-third the distance from A to B.
+
+https://upload.wikimedia.org/wikipedia/commons/7/73/One-seventh_area_triangle.svg

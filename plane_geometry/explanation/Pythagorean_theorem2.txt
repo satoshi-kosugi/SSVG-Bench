@@ -1,0 +1,6 @@
+A proof uses four copies of a right triangle with sides a, b and c, arranged inside a square with side c. The triangles are similar with area 1/2ab, while the small square has side b-a and area (b-a)^2. The area of the large square is therefore
+(b-a)^2+4*1/2ab = (b-a)^2+2ab = b^2-2ab+a^2+2ab = a^2+b^2.
+But this is a square with side c and area c^2, so
+c^2 = a^2 + b^2.
+
+https://upload.wikimedia.org/wikipedia/commons/6/64/Brahmaguptra%27s_theorem.svg

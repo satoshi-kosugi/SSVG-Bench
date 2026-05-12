@@ -1,0 +1,7 @@
+The Fermat point of a triangle with largest angle at most 120° is constructed as follows:
+
+Construct an equilateral triangle externally on each side of the given triangle.
+Draw a line from each new vertex to the opposite vertex of the original triangle.
+The three lines intersect at the Fermat point.
+
+https://upload.wikimedia.org/wikipedia/commons/1/15/Fermat_Point.svg

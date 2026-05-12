@@ -1,0 +1,3 @@
+The circles k_1 and k_2 intersect in the points P and Q. Z_1 is an arbitrary point on k_1 being different from P and Q. The lines {Z_1}P and {Z_1}Q intersect the circle k_2 in P_1 and Q_1. The constant chord theorem then states that the length of the chord {P_1}{Q_1} in k_2 does not depend on the location of Z_1 on k_1, in other words the length is constant.
+
+https://upload.wikimedia.org/wikipedia/commons/e/ee/Satz_von_der_konstanten_Sehne2.svg

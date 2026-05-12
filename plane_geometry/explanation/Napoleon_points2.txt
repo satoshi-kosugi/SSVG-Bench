@@ -1,0 +1,3 @@
+Let △ABC be any given plane triangle. On the sides BC, CA, AB of the triangle, construct inwardly drawn equilateral triangles △DBC, △ECA, △FAB respectively. Let the centroids of these triangles be X, Y, Z respectively. Then the lines AX, BY, CZ are concurrent. The point of concurrence N2 is the second Napoleon point, or the inner Napoleon point, of △ABC.
+
+https://upload.wikimedia.org/wikipedia/commons/e/ee/Second_Napoleon_Point.svg

@@ -1,0 +1,3 @@
+In geometry, the Steiner ellipse of a triangle is the unique circumellipse (an ellipse that touches the triangle at its vertices) whose center is the triangle's centroid.
+
+https://upload.wikimedia.org/wikipedia/commons/0/00/Steiner_ellipse.svg

@@ -1,0 +1,3 @@
+Let △A'B'C' be the anticomplementary triangle of triangle △ABC. Let the internal bisectors of the angles at the vertices A, B, C of △ABC meet the opposite sidelines at A", B", C" respectively. Then the lines A'A", B'B", C'C" concur at the equal parallelians point of △ABC.
+
+https://upload.wikimedia.org/wikipedia/commons/7/7b/ConstructionOfEqualParalleliansPoint.svg

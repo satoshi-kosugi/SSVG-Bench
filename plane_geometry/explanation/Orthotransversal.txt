@@ -1,0 +1,5 @@
+In Euclidean geometry, the orthotransversal of a point is the line defined as follows.
+
+For a triangle ABC and a point P, three orthotraces, intersections of lines BC, CA, AB and perpendiculars of AP, BP, CP through P respectively are collinear. The lines BC, CA, AB may need to be extended. The line which includes these three points is called the orthotransversal of P.
+
+https://upload.wikimedia.org/wikipedia/commons/0/0d/Orthotransversal.png

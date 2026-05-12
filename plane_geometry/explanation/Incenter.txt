@@ -1,0 +1,3 @@
+The point of intersection of angle bisectors of the 3 angles of triangle ABC is the incenter (denoted by I). The incircle (whose center is I) touches each side of the triangle.
+
+https://upload.wikimedia.org/wikipedia/commons/9/90/Incircle.svg

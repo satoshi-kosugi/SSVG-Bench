@@ -1,0 +1,3 @@
+The pedal circle of a triangle ABC and a point P in the plane is a special circle determined by those two entities. More specifically for the three perpendiculars through the point P onto the three (extended) triangle sides a, b, c you get three points of intersection Pa, Pb, Pc and the circle defined by those three points is the pedal circle.
+
+https://upload.wikimedia.org/wikipedia/commons/3/36/Pedal_circle1.svg

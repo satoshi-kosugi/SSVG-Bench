@@ -1,0 +1,5 @@
+The midpoint theorem, midsegment theorem, or midline theorem states that if the midpoints of two sides of a triangle are connected, then the resulting line segment will be parallel to the third side and have half of its length.
+
+D and E midpoints of AC and BC => DE || AB and 2|DE|=|AB|
+
+https://upload.wikimedia.org/wikipedia/commons/8/8d/Midpoint_theorem.svg

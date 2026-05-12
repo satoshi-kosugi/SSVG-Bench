@@ -1,0 +1,3 @@
+Griffiths' theorem, named after John Griffiths (1837-1916), is a theorem in elementary geometry. It states that all the pedal circles for a points located on a line through the center of the triangle's circumcircle share a common (fixed) point. Such a point defined for a triangle and a line through its circumcenter is called a Griffiths point.
+
+https://upload.wikimedia.org/wikipedia/commons/4/4f/Pedal_circle_griffith_point2_schar.svg

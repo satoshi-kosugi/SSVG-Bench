@@ -1,0 +1,3 @@
+In geometry, the Malfatti circles are three circles inside a given triangle such that each circle is tangent to the other two and to two sides of the triangle.
+
+https://upload.wikimedia.org/wikipedia/commons/3/3f/Malfatti%27s_circles.svg

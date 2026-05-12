@@ -1,0 +1,3 @@
+The center of the incircle, called the incenter, can be found as the intersection of the three internal angle bisectors.
+
+https://upload.wikimedia.org/wikipedia/commons/6/6f/Incircle_and_Excircles.svg

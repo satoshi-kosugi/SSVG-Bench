@@ -1,0 +1,5 @@
+Given a secant g intersecting the circle at points G1 and G2 and a tangent t intersecting the circle at point T and given that g and t intersect at point P, the following equation holds:
+
+|PT|^2=|P{G1}|\cdot|P{G2}|
+
+https://upload.wikimedia.org/wikipedia/commons/1/1e/Sekanten_tangenten.svg

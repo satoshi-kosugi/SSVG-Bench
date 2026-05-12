@@ -1,0 +1,136 @@
+Here is an EPS diagram for the compound you requested, methyl‑phenyl‑sulfanyl‑sulfanylidene‑lambda⁵‑phosphane, with color‑coded atoms and hydrogen atoms omitted.
+```eps
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 10 -30 85 35
+%%Creator: EPS Generator
+%%EndComments
+
+1 setlinewidth
+0 0 0 setrgbcolor
+
+% Bonds between heavy atoms
+% P=S double bond – shown as single line
+newpath
+47.32 -5.00 moveto
+58.00 -9.00 lineto
+stroke
+
+% P–S (thiol)
+newpath
+47.32 -5.00 moveto
+36.00 -10.00 lineto
+stroke
+
+% P–C(phenyl)
+newpath
+47.32 -5.00 moveto
+47.32 6.00 lineto
+stroke
+
+% P–C(methyl)
+newpath
+47.32 -5.00 moveto
+56.00 -15.00 lineto
+stroke
+
+% Phenyl ring bonds
+newpath
+47.32 6.00 moveto
+55.00 11.00 lineto
+stroke
+
+newpath
+55.00 11.00 moveto
+63.00 6.00 lineto
+stroke
+
+newpath
+63.00 6.00 moveto
+63.00 -2.00 lineto
+stroke
+
+newpath
+63.00 -2.00 moveto
+55.00 -7.00 lineto
+stroke
+
+newpath
+55.00 -7.00 moveto
+47.32 -2.00 lineto
+stroke
+
+newpath
+47.32 -2.00 moveto
+47.32 6.00 lineto
+stroke
+
+% Atom circles (no hydrogens)
+
+% Phosphorus (P) – [0.84, 0.53, 0.0]
+0.84 0.53 0.0 setrgbcolor
+newpath
+47.32 -5.00 2.2 0 360 arc
+closepath
+fill
+
+% Sulfur (S) of thiol – [0.84, 0.84, 0.0]
+0.84 0.84 0.0 setrgbcolor
+newpath
+36.00 -10.00 2.2 0 360 arc
+closepath
+fill
+
+% Sulfur (S) of sulfanylidene – [0.84, 0.84, 0.0]
+0.84 0.84 0.0 setrgbcolor
+newpath
+58.00 -9.00 2.2 0 360 arc
+closepath
+fill
+
+% Phenyl carbons – [0.15, 0.29, 0.29]
+0.15 0.29 0.29 setrgbcolor
+newpath
+47.32 6.00 1.5 0 360 arc
+closepath
+fill
+
+0.15 0.29 0.29 setrgbcolor
+newpath
+55.00 11.00 1.5 0 360 arc
+closepath
+fill
+
+0.15 0.29 0.29 setrgbcolor
+newpath
+63.00 6.00 1.5 0 360 arc
+closepath
+fill
+
+0.15 0.29 0.29 setrgbcolor
+newpath
+63.00 -2.00 1.5 0 360 arc
+closepath
+fill
+
+0.15 0.29 0.29 setrgbcolor
+newpath
+55.00 -7.00 1.5 0 360 arc
+closepath
+fill
+
+0.15 0.29 0.29 setrgbcolor
+newpath
+47.32 -2.00 1.5 0 360 arc
+closepath
+fill
+
+% Methyl carbon – [0.15, 0.29, 0.29]
+0.15 0.29 0.29 setrgbcolor
+newpath
+56.00 -15.00 1.5 0 360 arc
+closepath
+fill
+
+showpage
+```
+The structure shows central phosphorus bonded to two sulfur atoms, one phenyl ring, and one methyl carbon. All bonds are drawn as single lines, and the atom colors follow your mapping: phosphorus in gold, the two sulfur atoms in yellow, and all carbons in dark teal.

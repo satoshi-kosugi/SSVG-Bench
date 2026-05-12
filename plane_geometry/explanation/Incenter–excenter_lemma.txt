@@ -1,0 +1,4 @@
+Let ABC be an arbitrary triangle. Let I be its incenter and let D be the point where line BI (the angle bisector of ∠ABC) crosses the circumcircle of ABC.
+The circle through A, C, and I has its center at D.
+
+https://upload.wikimedia.org/wikipedia/commons/4/41/Trillium_theorem2.svg

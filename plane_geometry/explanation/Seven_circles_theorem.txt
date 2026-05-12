@@ -1,0 +1,3 @@
+In geometry, the seven circles theorem is a theorem about a certain arrangement of seven circles in the Euclidean plane. Specifically, given a chain of six circles all tangent to a seventh circle and each tangent to its two neighbors, the three lines drawn between opposite pairs of the points of tangency on the seventh circle all pass through the same point.
+
+https://upload.wikimedia.org/wikipedia/commons/5/5b/Teorema_de_les_set_circumfer%C3%A8ncies.svg

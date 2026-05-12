@@ -1,0 +1,3 @@
+In geometry, symmedians are three particular lines associated with every triangle. They are constructed by taking a median of the triangle (a line connecting a vertex with the midpoint of the opposite side), and reflecting the line over the corresponding angle bisector (the line through the same vertex that divides the angle there in half). 
+
+https://upload.wikimedia.org/wikipedia/commons/9/9a/Lemoine_punkt.svg
