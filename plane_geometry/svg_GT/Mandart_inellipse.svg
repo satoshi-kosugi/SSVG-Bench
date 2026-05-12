@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<line class="additional_object" x1="65.75247580358314" y1="54.345994720781775" x2="241.00005616189603" y2="194.21345264616136"/>
+<line class="additional_object" x1="5.745361963419885" y1="253.11792126102176" x2="174.12995862740325" y2="7.945036224422936"/>
+<circle class="output_object" cx="166.82142389127057" cy="86.16170881928974" r="38.24063500383773"/>
+<circle class="output_object" cx="129.76018870397064" cy="192.62594305183745" r="68.02703259262033"/>
+<circle class="output_object" cx="80.85253758166876" cy="98.97598142913306" r="25.420746204391858"/>
+<line class="additional_object" x1="48.26366138120823" y1="124.48284254076418" x2="236.6138120822959" y2="124.48284254076418"/>
+<polygon class="input_object" points="115.18430462212405 93.8390400059906 153.63461070445737 124.5184117415804 94.11797742291779 124.5184117415804"/>
+<ellipse class="output_object" cx="0" cy="0" rx="6.91914559035513" ry="22.120298781286856" transform="translate(123.13495703614954,117.12563416140928) rotate(-83.59)"/>
+</svg>

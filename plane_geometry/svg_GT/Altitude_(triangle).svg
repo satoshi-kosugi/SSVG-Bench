@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<polygon class="input_object" points="252.0 50.4 50.4 172.79999999999998 208.79999999999998 172.79999999999998"/>
+<line class="output_object" x1="252.0" y1="50.4" x2="252.0" y2="172.79999999999998"/>
+<line class="output_object" x1="208.79999999999998" y1="172.79999999999998" x2="252.0" y2="172.79999999999998"/>
+<text class="input_text" x="208.79999999999998" y="194.4">C</text>
+<text class="input_text" x="252.0" y="36.0">A</text>
+<text class="input_text" x="50.4" y="194.4">B</text>
+</svg>

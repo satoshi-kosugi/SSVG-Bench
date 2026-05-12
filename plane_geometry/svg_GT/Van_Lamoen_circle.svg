@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<circle class="additional_object" cx="127.04714640198512" cy="67.4937965260546" r="61.04218362282879"/>
+<circle class="additional_object" cx="116.62531017369727" cy="71.71215880893301" r="59.30521091811415"/>
+<circle class="additional_object" cx="87.59553349875931" cy="156.0769230769231" r="55.08684863523573"/>
+<circle class="additional_object" cx="100.74689826302729" cy="174.68734491315138" r="58.06451612903226"/>
+<circle class="additional_object" cx="197.27047146401986" cy="169.47642679900744" r="74.44168734491315"/>
+<circle class="additional_object" cx="211.41439205955336" cy="128.28535980148885" r="75.93052109181141"/>
+<circle class="output_object" cx="146.65012406947892" cy="129.02977667493798" r="64.76426799007444"/>
+<polygon class="input_object" points="89.8287841191067 19.106699751861044 271.46401985111663 174.68734491315138 44.91563275434243 190.4441687344913"/>
+<line class="output_object" x1="44.91563275434243" y1="190.32009925558313" x2="180.6451612903226" y2="96.77171215880894"/>
+<line class="output_object" x1="271.712158808933" y1="174.68734491315138" x2="67.49627791563276" y2="104.71215880893301"/>
+<line class="output_object" x1="89.8287841191067" y1="19.106699751861044" x2="158.31265508684865" y2="182.62779156327545"/>
+<circle class="output_object" cx="116.62531017369727" cy="71.71215880893301" r="2"/>
+<circle class="output_object" cx="126.55086848635236" cy="67.4937965260546" r="2"/>
+<circle class="output_object" cx="211.66253101736973" cy="128.28535980148885" r="2"/>
+<circle class="output_object" cx="197.27047146401986" cy="169.72456575682384" r="2"/>
+<circle class="output_object" cx="100.74689826302729" cy="174.93548387096774" r="2"/>
+<circle class="output_object" cx="87.84367245657569" cy="156.0769230769231" r="2"/>
+<circle class="additional_object" cx="67.24813895781638" cy="104.71215880893301" r="2"/>
+<circle class="additional_object" cx="180.89330024813896" cy="97.01985111662532" r="2"/>
+<circle class="additional_object" cx="158.31265508684865" cy="182.62779156327545" r="2"/>
+<circle class="input_object" cx="44.91563275434243" cy="190.32009925558313" r="2"/>
+<circle class="input_object" cx="89.58064516129032" cy="19.106699751861044" r="2"/>
+<circle class="input_object" cx="271.46401985111663" cy="174.68734491315138" r="2"/>
+<circle class="additional_object" cx="135.23573200992556" cy="128.03722084367246" r="2"/>
+<text class="input_text" x="84.89826302729529" y="16.846153846153847">A</text>
+<text class="input_text" x="274.77915632754343" y="180.83374689826303">B</text>
+<text class="output_text" x="185.65508684863525" y="93.74441687344914">M_c</text>
+<text class="output_text" x="157.8089330024814" y="192.39950372208438">M_a</text>
+<text class="output_text" x="58.5955334987593" y="99.54590570719604">M_b</text>
+<text class="output_text" x="136.88833746898263" y="122.5210918114144">G</text>
+<text class="input_text" x="32.20595533498759" y="194.95285359801488">C</text>
+</svg>

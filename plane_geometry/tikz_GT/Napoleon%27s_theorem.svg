@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250.501pt" height="270.187pt" viewBox="0 0 250.501 270.187">
+<defs>
+<clipPath id="clip-0">
+<path clip-rule="nonzero" d="M 100 0 L 250.5 0 L 250.5 154 L 100 154 Z M 100 0 "/>
+</clipPath>
+<clipPath id="clip-1">
+<path clip-rule="nonzero" d="M 67 141 L 221 141 L 221 270.1875 L 67 270.1875 Z M 67 141 "/>
+</clipPath>
+</defs>
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(100%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 14.625219 -76.255469 L 120.281469 -53.259375 L 87.840063 -158.169531 Z M 14.625219 -76.255469 " transform="matrix(1, 0, 0, -1, -14.426, -10.65)"/>
+<g clip-path="url(#clip-0)">
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(100%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 264.730687 -10.849219 L 229.281469 -158.169531 L 120.281469 -53.259375 Z M 264.730687 -10.849219 " transform="matrix(1, 0, 0, -1, -14.426, -10.65)"/>
+</g>
+<g clip-path="url(#clip-1)">
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(100%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 158.558812 -280.642187 L 87.840063 -158.169531 L 229.281469 -158.169531 Z M 158.558812 -280.642187 " transform="matrix(1, 0, 0, -1, -14.426, -10.65)"/>
+</g>
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(100%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 159.355687 -197.403906 L 75.109594 -95.423437 L 205.551 -73.454687 Z M 159.355687 -197.403906 " transform="matrix(1, 0, 0, -1, -14.426, -10.65)"/>
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 120.281469 -53.259375 L 87.840063 -158.169531 L 229.281469 -158.169531 Z M 120.281469 -53.259375 " transform="matrix(1, 0, 0, -1, -14.426, -10.65)"/>
+</svg>

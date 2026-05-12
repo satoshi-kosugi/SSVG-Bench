@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<line class="output_object" x1="66.45202020202021" y1="196.29419191919195" x2="168.17550505050505" y2="284.9747474747475"/>
+<line class="output_object" x1="32.121212121212125" y1="165.719696969697" x2="22.790404040404045" y2="15.202020202020202"/>
+<line class="output_object" x1="66.31944444444444" y1="195.06313131313135" x2="89.2550505050505" y2="138.44696969696972"/>
+<line class="output_object" x1="65.71338383838385" y1="194.76010101010104" x2="23.11868686868687" y2="16.420454545454547"/>
+<line class="output_object" x1="38.49116161616162" y1="264.44444444444446" x2="168.27651515151518" y2="285.58712121212125"/>
+<line class="output_object" x1="32.66414141414142" y1="166.14898989898992" x2="89.18560606060608" y2="138.29545454545456"/>
+<line class="output_object" x1="168.85732323232327" y1="285.4166666666667" x2="22.878787878787882" y2="15.202020202020202"/>
+<polygon class="input_object" points="38.23232323232324 264.4065656565657 65.9848484848485 195.8901515151515 32.15909090909092 166.40151515151516"/>
+<text class="input_text" x="23.541666666666668" y="167.58838383838383">A</text>
+<text class="input_text" x="70.2588383838384" y="197.89141414141415">B</text>
+<text class="input_text" x="28.787878787878793" y="270.30303030303037">C</text>
+<text class="output_text" x="28.648989898989903" y="14.84848484848485">D</text>
+<text class="output_text" x="99.81060606060606" y="146.14898989898992">E</text>
+<text class="output_text" x="170.58712121212122" y="281.9318181818182">F</text>
+</svg>

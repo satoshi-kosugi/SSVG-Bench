@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<line class="additional_object" x1="140.625" y1="15.0" x2="56.8125" y2="263.775"/>
+<line class="additional_object" x1="281.25" y1="243.75" x2="28.6875" y2="172.27499999999998"/>
+<line class="additional_object" x1="18.75" y1="281.25" x2="166.35000000000002" y2="64.19999999999999"/>
+<line class="additional_object" x1="140.625" y1="15.0" x2="156.60000000000002" y2="277.01250000000005"/>
+<line class="additional_object" x1="281.25" y1="243.75" x2="43.6125" y2="132.22500000000002"/>
+<line class="additional_object" x1="18.75" y1="281.25" x2="229.04999999999998" y2="124.125"/>
+<line class="output_object" x1="140.625" y1="15.0" x2="234.90375" y2="211.72125"/>
+<line class="output_object" x1="281.25" y1="243.75" x2="235.42125" y2="212.27249999999998"/>
+<line class="output_object" x1="18.75" y1="281.25" x2="234.64125" y2="212.145"/>
+<polygon class="input_object" points="140.625 15.0 281.25 243.75 18.75 281.25"/>
+<circle class="additional_object" cx="235.04999999999998" cy="212.02499999999998" r="2"/>
+<circle class="input_object" cx="82.5" cy="187.5" r="2"/>
+<text class="input_text" x="138.9455625" y="10.5615375">A</text>
+<text class="input_text" x="282.6588" y="248.2075125">B</text>
+<text class="input_text" x="7.5813375" y="284.2206">C</text>
+<text class="input_text" x="77.1907125" y="182.87208750000002">P</text>
+</svg>

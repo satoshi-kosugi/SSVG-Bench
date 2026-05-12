@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<circle class="additional_object" cx="41.039987680303895" cy="114.70663723628152" r="37.96519685847749"/>
+<line class="output_object" x1="73.63585031569222" y1="143.47826086956522" x2="149.72024023407423" y2="58.087367178276274"/>
+<line class="output_object" x1="84.92890508700786" y1="92.38745444279041" x2="147.2819670448129" y2="209.43483394076281"/>
+<line class="output_object" x1="147.61049227452392" y1="209.29110415276426" x2="150.1154971510703" y2="58.09763359170475"/>
+<line class="output_object" x1="148.48827062265798" y1="117.97648991324883" x2="40.72172886402136" y2="114.72717006313846"/>
+<line class="output_object" x1="40.80386017144911" y1="114.72717006313846" x2="147.24090139109902" y2="209.5682973153329"/>
+<line class="output_object" x1="149.96150094964327" y1="57.95903701042042" x2="40.839792618448755" y2="114.48077614085521"/>
+<line class="additional_object" x1="34.166623889944056" y1="71.08977978543197" x2="214.68610440942462" y2="144.3663056311278"/>
+<line class="additional_object" x1="33.14511575381141" y1="157.56378009342438" x2="208.38252656434477" y2="97.70545659873723"/>
+<line class="additional_object" x1="56.40880858272163" y1="221.9906575637801" x2="103.23905343668191" y2="8.639186900056458"/>
+<circle class="additional_object" cx="150.62881782249374" cy="57.728042708279865" r="56.34721010215082"/>
+<circle class="additional_object" cx="147.55402700066736" cy="209.9276217853293" r="86.25327241928034"/>
+<polygon class="input_object" points="84.92890508700786 91.86386735793852 73.50752014783636 143.83758533956163 149.2223191827935 117.91489143267802"/>
+</svg>

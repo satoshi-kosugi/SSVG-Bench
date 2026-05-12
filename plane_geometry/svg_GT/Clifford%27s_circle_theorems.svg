@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<circle class="input_object" cx="153.94736842105263" cy="58.72203947368421" r="52.25822368421052"/>
+<circle class="input_object" cx="73.02631578947368" cy="116.44736842105263" r="53.348684210526315"/>
+<circle class="input_object" cx="177.6315789473684" cy="122.36842105263158" r="57.1578947368421"/>
+<circle class="input_object" cx="122.86184210526315" cy="142.5986842105263" r="40.860197368421055"/>
+<circle class="output_object" cx="154.21875" cy="92.7236842105263" r="54.42434210526316"/>
+<circle class="output_object" cx="101.54605263157895" cy="120.53782894736841" r="47.85197368421053"/>
+<circle class="output_object" cx="209.77796052631578" cy="139.59868421052633" r="67.875"/>
+<circle class="output_object" cx="120.54276315789474" cy="167.23519736842104" r="30.458881578947366"/>
+<text class="output_text" x="146.20559210526315" y="144.00986842105263">P</text>
+<text class="input_text" x="127.50986842105263" y="99.92763157894737">M</text>
+</svg>

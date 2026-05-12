@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<circle class="additional_object" cx="-28.369927420459227" cy="29.972155018943713" r="159.7617199981741"/>
+<circle class="additional_object" cx="210.380243757703" cy="238.50823937554205" r="171.76245035833293"/>
+<circle class="additional_object" cx="148.0713927055279" cy="176.92061898023462" r="88.54247500798832"/>
+<circle class="additional_object" cx="128.14625462181039" cy="155.60323184370293" r="62.82010316337244"/>
+<circle class="additional_object" cx="119.3043319486922" cy="145.6201214223764" r="52.05185557127859"/>
+<circle class="additional_object" cx="114.57981467110969" cy="140.8271328799014" r="47.38211530561008"/>
+<circle class="additional_object" cx="111.37079472314785" cy="139.2933765463094" r="46.218103802437575"/>
+<circle class="additional_object" cx="108.26676404802117" cy="140.48021180444607" r="47.939014926735744"/>
+<circle class="additional_object" cx="104.10827589355" cy="144.59305244898889" r="52.91915825991692"/>
+<circle class="additional_object" cx="97.43460994202766" cy="152.58593143744008" r="62.550782854795266"/>
+<circle class="additional_object" cx="85.83557766923815" cy="166.72296526224494" r="79.97443739444013"/>
+<circle class="additional_object" cx="64.02976217647327" cy="192.42707810288948" r="112.71283151504085"/>
+<circle class="additional_object" cx="17.02652120326834" cy="245.64294517734055" r="182.63568722326198"/>
+<circle class="additional_object" cx="-123.6454101428767" cy="399.7717624503583" r="390.17665586342264"/>
+<circle class="additional_object" cx="118.18596795544804" cy="93.58196010407632" r="2"/>
+<polygon class="input_object" points="91.82453097183549 24.75920938512804 59.948874788880254 185.50691559775413 189.48281371251196 185.50691559775413"/>
+<line class="input_object" x1="-1.593098096498836" y1="151.03391609987673" x2="301.91719541698995" y2="64.0069384215091"/>
+</svg>

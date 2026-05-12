@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<line class="additional_object" x1="18.75" y1="18.75" x2="178.125" y2="234.375"/>
+<line class="additional_object" x1="281.25" y1="187.5" x2="46.875" y2="150.0"/>
+<line class="additional_object" x1="75.0" y1="281.25" x2="150.0" y2="103.125"/>
+<line class="additional_object" x1="18.75" y1="18.75" x2="146.77499999999998" y2="203.77499999999998"/>
+<line class="additional_object" x1="281.25" y1="187.5" x2="56.849999999999994" y2="171.22500000000002"/>
+<line class="additional_object" x1="75.0" y1="281.25" x2="176.21249999999998" y2="80.2875"/>
+<line class="additional_object" x1="18.75" y1="18.75" x2="140.925" y2="207.67499999999998"/>
+<line class="additional_object" x1="281.25" y1="187.5" x2="56.287499999999994" y2="190.64999999999998"/>
+<line class="additional_object" x1="75.0" y1="281.25" x2="189.6375" y2="87.63749999999999"/>
+<line class="additional_object" x1="150.0" y1="103.125" x2="89.17500000000001" y2="197.77499999999998"/>
+<line class="additional_object" x1="178.125" y1="234.375" x2="131.58749999999998" y2="131.96249999999998"/>
+<line class="additional_object" x1="46.875" y1="150.0" x2="156.8625" y2="126.41250000000001"/>
+<circle class="additional_object" cx="129.2625" cy="189.6375" r="2"/>
+<circle class="additional_object" cx="131.5125" cy="131.85000000000002" r="2"/>
+<text x="124.33953749999999" y="126.56253749999999" class="output_text">Cc</text>
+<text x="127.20420000000001" y="200.4466875" class="output_text">Sy</text>
+<polygon class="input_object" points="18.75 18.75 281.25 187.5 75.0 281.25"/>
+<circle class="output_object" cx="130.3875" cy="160.72500000000002" r="28.912499999999998"/>
+</svg>

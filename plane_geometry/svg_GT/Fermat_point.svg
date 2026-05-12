@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<polygon class="output_object" points="90.21000000000001 161.37 153.99 271.8375 217.77 161.37"/>
+<polygon class="output_object" points="110.36250000000001 86.16 217.77 161.37 229.20000000000002 30.75"/>
+<polygon class="output_object" points="35.152499999999996 106.3125 90.21000000000001 161.3625 110.36250000000001 86.16"/>
+<polygon class="input_object" points="110.36250000000001 86.16 90.21000000000001 161.37 217.77 161.37"/>
+<line class="output_object" x1="110.36250000000001" y1="86.16" x2="153.99" y2="271.8375"/>
+<line class="output_object" x1="90.21000000000001" y1="161.37" x2="229.20000000000002" y2="30.75"/>
+<line class="output_object" x1="217.77" y1="161.37" x2="35.152499999999996" y2="106.3125"/>
+</svg>

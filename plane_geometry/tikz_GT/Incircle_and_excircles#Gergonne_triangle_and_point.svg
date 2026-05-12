@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="173.32pt" height="252.314pt" viewBox="0 0 173.32 252.314">
+<defs>
+<clipPath id="clip-0">
+<path clip-rule="nonzero" d="M 28 32 L 173.320312 32 L 173.320312 106 L 28 106 Z M 28 32 "/>
+</clipPath>
+<clipPath id="clip-1">
+<path clip-rule="nonzero" d="M 80 17 L 110 17 L 110 252.3125 L 80 252.3125 Z M 80 17 "/>
+</clipPath>
+<clipPath id="clip-2">
+<path clip-rule="nonzero" d="M 0 0 L 173.320312 0 L 173.320312 252.3125 L 0 252.3125 Z M 0 0 "/>
+</clipPath>
+</defs>
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(100%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 170.342156 -98.393406 C 170.342156 -65.448094 143.639031 -38.744969 110.697625 -38.744969 C 77.752313 -38.744969 51.049188 -65.448094 51.049188 -98.393406 C 51.049188 -131.334813 77.752313 -158.037938 110.697625 -158.037938 C 143.639031 -158.037938 170.342156 -131.334813 170.342156 -98.393406 Z M 170.342156 -98.393406 " transform="matrix(1, 0, 0, -1, -19.557, -16.827)"/>
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(100%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 19.756219 -17.026219 L 165.990594 -119.823094 " transform="matrix(1, 0, 0, -1, -19.557, -16.827)"/>
+<g clip-path="url(#clip-0)">
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(100%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 192.678094 -55.026219 L 53.697625 -116.405125 " transform="matrix(1, 0, 0, -1, -19.557, -16.827)"/>
+</g>
+<g clip-path="url(#clip-1)">
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(100%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 106.002313 -268.944187 L 123.807 -39.932469 " transform="matrix(1, 0, 0, -1, -19.557, -16.827)"/>
+</g>
+<g clip-path="url(#clip-2)">
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 192.678094 -55.026219 L 19.756219 -17.026219 L 106.002313 -268.944187 Z M 192.678094 -55.026219 " transform="matrix(1, 0, 0, -1, -19.557, -16.827)"/>
+</g>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<polygon class="output_object" points="75.51168224299066 152.95093457943926 96.64485981308411 262.43691588785043 274.2056074766355 152.95093457943923"/>
+<polygon class="output_object" points="194.73364485981307 73.47196261682242 253.9415887850467 67.71028037383176 274.2126168224299 152.95093457943923"/>
+<line class="output_object" x1="194.73364485981307" y1="73.47196261682242" x2="96.6518691588785" y2="262.43691588785043"/>
+<line class="output_object" x1="20.060747663551403" y1="20.838785046728972" x2="274.2126168224299" y2="152.95794392523365"/>
+<line class="output_object" x1="75.51168224299066" y1="152.95093457943926" x2="253.93457943925233" y2="67.71028037383178"/>
+<circle class="additional_object" cx="179.15186915887847" cy="103.71728971962617" r="2"/>
+<text class="input_text" x="70.8714953271028" y="161.03971962616822">B</text>
+<text class="input_text" x="271.4929906542056" y="161.03971962616822">C</text>
+<polygon class="input_object" points="75.51168224299066 152.95093457943926 274.2056074766355 152.95093457943926 194.7266355140187 73.47196261682244"/>
+<polygon class="input_object" points="75.51168224299066 152.95093457943926 20.060747663551403 20.838785046728972 194.73364485981307 73.47196261682244"/>
+<text class="input_text" x="194.73364485981307" y="69.2663551401869">A</text>
+<text class="output_text" x="253.9556074766355" y="66.78504672897196">Y</text>
+<text class="input_text" x="20.7196261682243" y="16.5">Z</text>
+<text class="output_text" x="93.04906542056074" y="272.19392523364485">X</text>
+<text class="output_text" x="179.23598130841123" y="117.92523364485982">N</text>
+</svg>

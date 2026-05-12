@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<polygon class="input_object" points="14.18076923076923 226.34423076923073 290.5788461538461 226.34423076923073 86.16346153846153 7.546153846153845"/>
+<line class="output_object" x1="151.0903846153846" y1="150.74423076923077" x2="87.0230769230769" y2="158.98846153846154"/>
+<line class="additional_object" x1="86.1576923076923" y1="7.557692307692307" x2="152.38269230769228" y2="226.35"/>
+<line class="additional_object" x1="290.58461538461535" y1="226.34999999999997" x2="50.175" y2="116.94230769230768"/>
+<line class="additional_object" x1="14.18076923076923" y1="226.34999999999997" x2="188.37692307692305" y2="116.94230769230768"/>
+<line class="additional_object" x1="14.18076923076923" y1="226.34999999999997" x2="161.75769230769228" y2="88.47115384615383"/>
+<line class="additional_object" x1="290.58461538461535" y1="226.34999999999997" x2="41.175" y2="144.29423076923075"/>
+<line class="additional_object" x1="86.1576923076923" y1="7.557692307692307" x2="86.1576923076923" y2="226.35"/>
+<line class="additional_object" x1="188.37692307692305" y1="116.94230769230768" x2="54.449999999999996" y2="242.06538461538457"/>
+<line class="additional_object" x1="50.175" y1="116.94230769230768" x2="271.5807692307692" y2="189.77884615384613"/>
+<line class="additional_object" x1="152.38269230769228" y1="226.34999999999997" x2="152.38269230769228" y2="55.38461538461538"/>
+</svg>

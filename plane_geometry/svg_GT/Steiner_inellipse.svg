@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<polygon class="input_object" points="37.5 37.5 262.5 112.5 112.5 262.5"/>
+<circle class="additional_object" cx="150.0" cy="75.0" r="2"/>
+<circle class="additional_object" cx="187.5" cy="187.5" r="2"/>
+<circle class="additional_object" cx="75.0" cy="150.0" r="2"/>
+<ellipse class="output_object" cx="0" cy="0" rx="61.22625000000001" ry="70.63875" transform="translate(137.49374999999998,137.49374999999998) rotate(-45)"/>
+</svg>

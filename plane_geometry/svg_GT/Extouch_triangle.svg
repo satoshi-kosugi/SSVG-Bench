@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<polygon class="output_object" points="79.17572549390302 126.7983741374421 116.58474335948577 131.86501559693733 125.97599016920313 114.71783722469043"/>
+<line class="additional_object" x1="42.2109840249551" y1="80.79686170715568" x2="186.68116079024483" y2="139.4035353057945"/>
+<line class="additional_object" x1="41.92267700160696" y1="157.27857075337934" x2="182.17695434351072" y2="109.32507798468664"/>
+<line class="additional_object" x1="62.78003592021931" y1="201.76292655260423" x2="95.20748652991776" y2="53.89923433216749"/>
+<polygon class="input_object" points="85.40504773608092 98.32687399565177 74.88893090084129 146.18111352679836 144.60251441535118 122.3130730692882"/>
+<circle class="output_object" cx="146.0818602892523" cy="66.40514226297381" r="52.178844881368754"/>
+<circle class="output_object" cx="45.32564514604405" cy="119.38273938935627" r="34.715001417903395"/>
+<circle class="output_object" cx="142.63635504300976" cy="206.9902637300312" r="78.991398052746"/>
+</svg>

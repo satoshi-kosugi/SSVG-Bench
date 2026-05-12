@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<polygon class="output_object" points="172.63033516816046 188.46076255799878 201.57641430588777 155.48574886884347 158.53771002046167 146.90048704573616"/>
+<line class="output_object" x1="14.006167324706764" y1="231.44759214962966" x2="172.62168938586126" y2="188.46076255799878"/>
+<line class="output_object" x1="259.07951237787836" y1="231.44759214962966" x2="172.63033516816049" y2="188.46076255799878"/>
+<line class="output_object" x1="259.07951237787836" y1="231.44759214962966" x2="201.56776852358863" y2="155.48574886884347"/>
+<line class="output_object" x1="219.60287039972334" y1="22.340701461137208" x2="201.5764143058878" y2="155.49439465114267"/>
+<line class="output_object" x1="219.60287039972334" y1="22.340701461137208" x2="158.5377100204617" y2="146.9091328280354"/>
+<line class="output_object" x1="158.5377100204617" y1="146.90048704573618" x2="14.006167324706764" y2="231.44759214962966"/>
+<line class="output_object" x1="219.60287039972334" y1="22.340701461137208" x2="172.63033516816049" y2="188.46076255799878"/>
+<line class="output_object" x1="14.006167324706764" y1="231.44759214962966" x2="201.56776852358857" y2="155.48574886884347"/>
+<line class="output_object" x1="259.07951237787836" y1="231.44759214962966" x2="158.5377100204617" y2="146.90048704573616"/>
+<polygon class="input_object" points="219.60287039972334 22.340701461137208 14.006167324706764 231.44759214962966 259.0795123778783 231.44759214962966"/>
+<circle class="input_object" cx="259.0795123778783" cy="231.44759214962966" r="2"/>
+<circle class="input_object" cx="14.006167324706764" cy="231.44759214962966" r="2"/>
+<circle class="input_object" cx="219.60287039972334" cy="22.340701461137208" r="2"/>
+<circle class="output_object" cx="179.4172742730338" cy="164.46007089541484" r="2"/>
+<text class="input_text" x="2.801233464941353" y="242.09919594224615">B</text>
+<text class="input_text" x="264.2842733219978" y="242.09919594224615">C</text>
+<text class="input_text" x="216.10132856854665" y="19.91123663506153">A</text>
+<text class="output_text" x="167.49474048243465" y="201.1527709732269">D</text>
+<text class="output_text" x="207.43825470474656" y="155.0015850600882">E</text>
+<text class="output_text" x="152.5202455402173" y="145.32695466728148">F</text>
+</svg>

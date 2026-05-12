@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<line class="input_object" x1="115.19999999999999" y1="158.4" x2="187.2" y2="144.0"/>
+<circle class="output_object" cx="115.19999999999999" cy="158.4" r="44.358000000000004"/>
+<circle class="output_object" cx="187.2" cy="144.0" r="44.358000000000004"/>
+<text class="input_text" x="187.2" y="157.2">B</text>
+<text class="input_text" x="115.19999999999999" y="172.79999999999998">A</text>
+<line class="output_object" x1="146.31" y1="126.786" x2="156.08999999999997" y2="175.61999999999998"/>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<polygon class="output_object" points="54.39999999999999 126.61333333333332 86.2 152.97999999999996 93.13333333333334 112.2533333333333"/>
+<line class="output_object" x1="293.3333333333333" y1="193.33333333333331" x2="86.20666666666666" y2="152.98"/>
+<line class="output_object" x1="6.666666666666666" y1="6.666666666666666" x2="54.39999999999999" y2="126.61333333333332"/>
+<line class="output_object" x1="93.14" y1="112.25999999999999" x2="293.3333333333333" y2="193.33333333333331"/>
+<line class="output_object" x1="6.666666666666666" y1="6.666666666666666" x2="93.14" y2="112.25999999999999"/>
+<line class="output_object" x1="54.39999999999999" y1="126.61333333333332" x2="20.0" y2="193.33333333333331"/>
+<line class="output_object" x1="20.0" y1="193.33333333333331" x2="86.20666666666666" y2="152.98"/>
+<polygon class="input_object" points="293.3333333333333 193.33333333333331 6.666666666666666 6.666666666666666 20.0 193.33333333333331"/>
+</svg>

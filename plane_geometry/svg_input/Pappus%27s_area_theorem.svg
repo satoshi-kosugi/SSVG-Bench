@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+</style>
+<polygon class="input_object" points="79.98018789544322 82.86572505911677 19.97827059500224 171.7805330095226 69.88560107368825 189.82233015913593 129.88751837412923 100.9075222087301"/>
+<polygon class="input_object" points="129.88751837412923 100.90752220873011 221.5248929507254 189.82233015913593 69.88560107368825 189.82233015913593"/>
+<polygon class="input_object" points="153.1827187320253 49.18834281331885 129.87793187192432 100.91710871093501 221.51530644852048 189.83191666134084 244.82009330862147 138.10315076372467"/>
+<text class="input_text" x="117.1758164504378" y="93.58343452418994">A</text>
+<text class="input_text" x="58.81319102703394" y="199.7060139323832">B</text>
+<text class="input_text" x="226.24145203553397" y="199.7060139323832">C</text>
+<text class="input_text" x="67.89160861506997" y="80.75669457403976">E</text>
+<text class="input_text" x="10.41094139451652" y="183.15012462452867">D</text>
+<text class="input_text" x="153.92087940180227" y="46.9355147951684">G</text>
+<text class="input_text" x="248.71221320380903" y="148.63871668690484">F</text>
+</svg>

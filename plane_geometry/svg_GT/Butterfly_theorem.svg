@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<line class="input_object" x1="30.363636363636363" y1="117.0568181818182" x2="257.4261363636364" y2="72.69886363636365"/>
+<circle class="input_object" cx="152.42613636363637" cy="138.57386363636365" r="123.35227272727273"/>
+<line class="output_object" x1="90.65909090909092" y1="31.517045454545457" x2="45.44318181818183" y2="200.2670454545455"/>
+<line class="output_object" x1="214.19318181818184" y1="31.517045454545457" x2="259.4034090909091" y2="200.26136363636368"/>
+<text class="input_text" x="15.810000000000002" y="121.76204545454546">P</text>
+<text class="input_text" x="263.6739204545455" y="67.84125">Q</text>
+<line class="output_object" x1="45.44886363636364" y1="200.26136363636365" x2="214.19318181818184" y2="31.517045454545457"/>
+<line class="output_object" x1="259.4034090909091" y1="200.26136363636365" x2="90.65909090909092" y2="31.517045454545457"/>
+<text class="output_text" x="85.14142045454545" y="27.035909090909094">A</text>
+<text class="output_text" x="218.25375000000003" y="27.035852272727276">C</text>
+<text class="output_text" x="263.9671590909091" y="212.2330113636364">B</text>
+<text class="output_text" x="38.07204545454546" y="209.35085227272728">D</text>
+<text class="output_text" x="62.63869318181819" y="106.73659090909092">X</text>
+<text class="output_text" x="149.64539772727275" y="85.9397159090909">M</text>
+<text class="output_text" x="232.30943181818185" y="72.69647727272728">Y</text>
+</svg>

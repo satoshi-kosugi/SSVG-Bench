@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+</style>
+<polygon class="input_object" points="220.3824809150361 156.74943331335817 282.9915843776869 121.22404314634844 247.46619421067714 58.61493968369765 184.85709074802634 94.14032985070737"/>
+<polygon class="input_object" points="111.1487454730205 188.28065970141478 184.86490711549985 94.14032985070739 90.71676089731899 20.42416820822803 17.008415622313127 114.56449805893541"/>
+<text class="input_text" x="183.25473541596102" y="87.92631770928324">A</text>
+<text class="input_text" x="219.7806206195774" y="169.00549751178968">B</text>
+<text class="input_text" x="285.531903806571" y="124.73359214194525">C</text>
+<text class="input_text" x="250.1159427841901" y="55.19918709778276">D</text>
+<text class="input_text" x="85.96440947343739" y="17.735337797347647">B'</text>
+<text class="input_text" x="106.31041400693051" y="197.31638050076862">D'</text>
+<text class="input_text" x="5.956072014798989" y="117.72231051822517">C'</text>
+</svg>

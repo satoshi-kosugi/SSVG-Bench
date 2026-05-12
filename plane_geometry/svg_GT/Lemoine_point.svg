@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<line class="additional_object" x1="296.76391804821543" y1="231.72735828567292" x2="112.44841815680881" y2="-1.8678056902917541"/>
+<line class="additional_object" x1="142.37674654311158" y1="231.72735828567292" x2="301.5094476218055" y2="-1.8678056902917541"/>
+<line class="additional_object" x1="-1.9112430319264462" y1="168.297980163614" x2="302.29131977123" y2="109.70100629841453"/>
+<line class="additional_object" x1="93.52059653949179" y1="231.72735828567292" x2="302.29131977123" y2="2.10671106928256"/>
+<line class="additional_object" x1="47.129515673640775" y1="-1.8678056902917541" x2="302.29131977123" y2="225.43980308405125"/>
+<line class="additional_object" x1="-1.9112430319264462" y1="168.85180626945632" x2="302.29131977123" y2="100.17736914500833"/>
+<line class="output_object" x1="16.12611308187939" y1="164.86643017447332" x2="232.7915731557229" y2="130.21429088539782"/>
+<line class="output_object" x1="266.77043364946064" y1="193.5567943241874" x2="232.84586983276623" y2="130.42061825816262"/>
+<line class="output_object" x1="232.75899514949685" y1="130.18171287917178" x2="287.77238832983426" y2="18.634619561282847"/>
+<polygon class="input_object" points="288.3696517773113 17.418373995511473 14.899008180699342 165.06189821182946 267.0201983638601 194.03460508216898"/>
+<text class="input_text" x="8.763483674799103" y="180.74277854195324">A</text>
+<text class="input_text" x="274.263375081445" y="197.0752189965974">B</text>
+<text class="input_text" x="278.74828060522697" y="13.172373850720337">C</text>
+</svg>

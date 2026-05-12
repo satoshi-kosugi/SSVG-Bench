@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<circle class="input_object" cx="136.36363636363635" cy="161.5090909090909" r="126.17727272727272"/>
+<line class="additional_object" x1="221.75454545454545" y1="68.52272727272727" x2="165.04090909090908" y2="127.7181818181818"/>
+<line class="additional_object" x1="91.97727272727272" y1="20.249999999999996" x2="221.59090909090907" y2="68.86363636363636"/>
+<line class="additional_object" x1="221.59090909090907" y1="68.86363636363636" x2="221.59090909090907" y2="211.02272727272725"/>
+<circle class="input_object" cx="221.59090909090907" cy="68.86363636363636" r="2"/>
+<circle class="output_object" cx="164.71363636363637" cy="127.3090909090909" r="2"/>
+<circle class="output_object" cx="91.97727272727272" cy="20.249999999999996" r="2"/>
+<circle class="output_object" cx="221.59090909090907" cy="211.36363636363635" r="2"/>
+<line class="output_object" x1="82.05" y1="47.49545454545454" x2="92.10000000000001" y2="20.713636363636358"/>
+<polygon class="input_object" points="252.27272727272725 211.36363636363635 20.454545454545453 211.36363636363635 81.81818181818181 47.72727272727273"/>
+<line class="output_object" x1="91.97727272727272" y1="20.249999999999996" x2="221.59090909090907" y2="211.02272727272725"/>
+<text class="input_text" x="7.499999999999999" y="225.68181818181816">A</text>
+<text class="input_text" x="252.95454545454544" y="225.68181818181816">B</text>
+<text class="input_text" x="61.36363636363636" y="47.72727272727273">C</text>
+<text class="input_text" x="223.12499999999997" y="62.49818181818181">P</text>
+</svg>

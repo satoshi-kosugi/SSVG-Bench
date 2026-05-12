@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<polygon class="input_object" points="57.82510914142082 168.01164175155444 102.48048683688319 27.74837941526657 271.37848921815055 166.29845217621377"/>
+<line class="additional_object" x1="271.37848921815055" y1="166.29845217621377" x2="80.15610530493451" y2="97.87670326762799"/>
+<line class="additional_object" x1="57.82510914142082" y1="168.01164175155444" x2="186.92948802751687" y2="97.02341579574018"/>
+<line class="additional_object" x1="164.59849186400317" y1="167.1583542796666" x2="102.48048683688319" y2="27.74837941526657"/>
+<ellipse class="output_object" cx="0" cy="0" rx="84.89879613705516" ry="135.38827887286678" transform="translate(143.89469506548483,120.68395290382324) rotate(-69.06)"/>
+</svg>

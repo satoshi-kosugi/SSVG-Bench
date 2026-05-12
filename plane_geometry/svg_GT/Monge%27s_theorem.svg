@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<circle class="input_object" cx="172.20199194540237" cy="40.55996334434611" r="31.0946053488316"/>
+<circle class="input_object" cx="200.53777702751586" cy="100.8175175440712" r="6.103648684496105"/>
+<circle class="input_object" cx="136.3759133769021" cy="118.98135867075024" r="13.38413678346637"/>
+<line class="output_object" x1="207.43965080666555" y1="115.44842887115055" x2="203.3424168616008" y2="40.53102467021969"/>
+<line class="output_object" x1="207.31183832927388" y1="115.41707864084694" x2="151.84363469747026" y2="64.0774591844117"/>
+<line class="output_object" x1="196.71546048665203" y1="59.67878071719681" x2="109.44124243374249" y2="178.00901922010272"/>
+<line class="output_object" x1="109.30137217546483" y1="178.119950804254" x2="141.52699737140378" y2="35.23765886126317"/>
+<line class="output_object" x1="253.89828056044564" y1="85.709118093906" x2="135.24248197361757" y2="105.59239877492946"/>
+<line class="output_object" x1="142.32522246605734" y1="130.99331998938916" x2="253.94168857163527" y2="85.76217232980443"/>
+<line class="output_object" x1="109.40024597873007" y1="178.17541659632963" x2="254.0863819422673" y2="85.74529143656402"/>
+</svg>

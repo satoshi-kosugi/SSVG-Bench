@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3.865 -49.561 127.406 99.413">
+<line x1="98.703" y1="-10.32" x2="88.703" y2="-10.37" stroke="black" stroke-width="1" />
+<line x1="49.519000000000005" y1="6.263" x2="55.793" y2="-1.524" stroke="black" stroke-width="1" />
+<line x1="67.917" y1="-31.458" x2="65.643" y2="-21.720000000000002" stroke="black" stroke-width="1" />
+<line x1="65.53099999999999" y1="0.75" x2="73.38" y2="-5.446" stroke="black" stroke-width="1" />
+<line x1="65.53099999999999" y1="0.75" x2="55.793" y2="-1.524" stroke="black" stroke-width="1" />
+<line x1="65.53099999999999" y1="0.75" x2="67.708" y2="10.51" stroke="black" stroke-width="1" />
+<line x1="82.827" y1="-2.351" x2="73.38" y2="-5.446" stroke="black" stroke-width="1" />
+<line x1="82.827" y1="-2.351" x2="85.886" y2="7.169" stroke="black" stroke-width="1" />
+<line x1="82.827" y1="-2.351" x2="88.703" y2="-10.37" stroke="black" stroke-width="1" />
+<line x1="55.883" y1="-19.543" x2="51.498999999999995" y2="-10.555000000000001" stroke="black" stroke-width="1" />
+<line x1="55.883" y1="-19.543" x2="65.643" y2="-21.720000000000002" stroke="black" stroke-width="1" />
+<line x1="55.883" y1="-19.543" x2="49.687" y2="-27.392" stroke="black" stroke-width="1" />
+<line x1="82.907" y1="-18.446" x2="73.43" y2="-15.446" stroke="black" stroke-width="1" />
+<line x1="82.907" y1="-18.446" x2="88.703" y2="-10.37" stroke="black" stroke-width="1" />
+<line x1="73.38" y1="-5.446" x2="73.43" y2="-15.446" stroke="black" stroke-width="1" />
+<line x1="73.43" y1="-15.446" x2="65.643" y2="-21.720000000000002" stroke="black" stroke-width="1" />
+<line x1="51.498999999999995" y1="-10.555000000000001" x2="55.793" y2="-1.524" stroke="black" stroke-width="1" />
+<line x1="67.708" y1="10.51" x2="60.343" y2="17.275" stroke="black" stroke-width="1" />
+<line x1="85.886" y1="7.169" x2="95.661" y2="9.280000000000001" stroke="black" stroke-width="1" />
+<line x1="49.687" y1="-27.392" x2="39.791" y2="-25.951" stroke="black" stroke-width="1" />
+<line x1="60.343" y1="17.275" x2="50.80199999999999" y2="14.28" stroke="black" stroke-width="1" />
+<line x1="60.343" y1="17.275" x2="62.519999999999996" y2="27.035999999999998" stroke="black" stroke-width="1" />
+<line x1="95.661" y1="9.280000000000001" x2="102.376" y2="1.87" stroke="black" stroke-width="1" />
+<line x1="95.661" y1="9.280000000000001" x2="98.72" y2="18.801000000000002" stroke="black" stroke-width="1" />
+<line x1="39.791" y1="-25.951" x2="33.595" y2="-33.801" stroke="black" stroke-width="1" />
+<line x1="39.791" y1="-25.951" x2="36.092" y2="-16.660999999999998" stroke="black" stroke-width="1" />
+<line x1="50.80199999999999" y1="14.28" x2="43.438" y2="21.044999999999998" stroke="black" stroke-width="1" />
+<line x1="62.519999999999996" y1="27.035999999999998" x2="55.155" y2="33.801" stroke="black" stroke-width="1" />
+<line x1="102.376" y1="1.87" x2="112.151" y2="3.981" stroke="black" stroke-width="1" />
+<line x1="98.72" y1="18.801000000000002" x2="108.495" y2="20.912000000000003" stroke="black" stroke-width="1" />
+<line x1="33.595" y1="-33.801" x2="23.700000000000003" y2="-32.36" stroke="black" stroke-width="1" />
+<line x1="36.092" y1="-16.660999999999998" x2="26.196" y2="-15.22" stroke="black" stroke-width="1" />
+<line x1="43.438" y1="21.044999999999998" x2="45.614" y2="30.805" stroke="black" stroke-width="1" />
+<line x1="55.155" y1="33.801" x2="45.614" y2="30.805" stroke="black" stroke-width="1" />
+<line x1="112.151" y1="3.981" x2="115.21000000000001" y2="13.502" stroke="black" stroke-width="1" />
+<line x1="108.495" y1="20.912000000000003" x2="115.21000000000001" y2="13.502" stroke="black" stroke-width="1" />
+<line x1="23.700000000000003" y1="-32.36" x2="20" y2="-23.069000000000003" stroke="black" stroke-width="1" />
+<line x1="26.196" y1="-15.22" x2="20" y2="-23.069000000000003" stroke="black" stroke-width="1" />
+<circle cx="98.703" cy="-10.32" r="1.5" fill="#D58639" />
+<circle cx="49.519000000000005" cy="6.263" r="1.5" fill="#FF0000" />
+<circle cx="67.917" cy="-31.458" r="1.5" fill="#FF0000" />
+<circle cx="65.53099999999999" cy="0.75" r="1.5" fill="#0000FF" />
+<circle cx="82.827" cy="-2.351" r="1.5" fill="#0000FF" />
+<circle cx="55.883" cy="-19.543" r="1.5" fill="#0000FF" />
+<circle cx="82.907" cy="-18.446" r="1.5" fill="#0000FF" />
+<circle cx="73.38" cy="-5.446" r="1.5" fill="#274A4A" />
+<circle cx="73.43" cy="-15.446" r="1.5" fill="#274A4A" />
+<circle cx="51.498999999999995" cy="-10.555000000000001" r="1.5" fill="#274A4A" />
+<circle cx="55.793" cy="-1.524" r="1.5" fill="#274A4A" />
+<circle cx="67.708" cy="10.51" r="1.5" fill="#274A4A" />
+<circle cx="65.643" cy="-21.720000000000002" r="1.5" fill="#274A4A" />
+<circle cx="85.886" cy="7.169" r="1.5" fill="#274A4A" />
+<circle cx="49.687" cy="-27.392" r="1.5" fill="#274A4A" />
+<circle cx="88.703" cy="-10.37" r="1.5" fill="#274A4A" />
+<circle cx="60.343" cy="17.275" r="1.5" fill="#274A4A" />
+<circle cx="95.661" cy="9.280000000000001" r="1.5" fill="#274A4A" />
+<circle cx="39.791" cy="-25.951" r="1.5" fill="#274A4A" />
+<circle cx="50.80199999999999" cy="14.28" r="1.5" fill="#274A4A" />
+<circle cx="62.519999999999996" cy="27.035999999999998" r="1.5" fill="#274A4A" />
+<circle cx="102.376" cy="1.87" r="1.5" fill="#274A4A" />
+<circle cx="98.72" cy="18.801000000000002" r="1.5" fill="#274A4A" />
+<circle cx="33.595" cy="-33.801" r="1.5" fill="#274A4A" />
+<circle cx="36.092" cy="-16.660999999999998" r="1.5" fill="#274A4A" />
+<circle cx="43.438" cy="21.044999999999998" r="1.5" fill="#274A4A" />
+<circle cx="55.155" cy="33.801" r="1.5" fill="#274A4A" />
+<circle cx="112.151" cy="3.981" r="1.5" fill="#274A4A" />
+<circle cx="108.495" cy="20.912000000000003" r="1.5" fill="#274A4A" />
+<circle cx="23.700000000000003" cy="-32.36" r="1.5" fill="#274A4A" />
+<circle cx="26.196" cy="-15.22" r="1.5" fill="#274A4A" />
+<circle cx="45.614" cy="30.805" r="1.5" fill="#274A4A" />
+<circle cx="115.21000000000001" cy="13.502" r="1.5" fill="#274A4A" />
+<circle cx="20" cy="-23.069000000000003" r="1.5" fill="#274A4A" />
+</svg>

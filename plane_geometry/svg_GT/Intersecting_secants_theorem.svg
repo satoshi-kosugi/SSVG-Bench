@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<circle class="input_object" cx="101.33970521115795" cy="100.34902139769645" r="82.94359277257229"/>
+<line class="output_object" x1="144.69621714500497" y1="302.7465299218729" x2="130.1581335409563" y2="-2.287432544902945"/>
+<line class="output_object" x1="156.88243348457593" y1="302.7465299218729" x2="-2.2149434853813728" y2="43.863935350498025"/>
+<circle class="input_object" cx="143.68137031170292" cy="281.2494966037533" r="2"/>
+<text class="input_text" x="149.31135393454505" y="283.3677880097726">P</text>
+<text class="output_text" x="74.58318790775095" y="195.41439579026496">A</text>
+<text class="output_text" x="145.63052057883854" y="185.66864445458694">B</text>
+<text class="output_text" x="137.43120251295406" y="22.060837114398474">C</text>
+<text class="output_text" x="8.819502241791284" y="87.79230542057077">D</text>
+</svg>

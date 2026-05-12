@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<circle class="input_object" cx="174.18329075392728" cy="272.99559710822416" r="2"/>
+<circle class="input_object" cx="101.91879110724574" cy="85.84008262216666" r="72.54987226178181"/>
+<line class="output_object" x1="192.60205468282874" y1="303.10648475294886" x2="5.9520574006631515" y2="-2.185138881339349"/>
+<line class="output_object" x1="174.19144425721584" y1="272.99559710822416" x2="38.370386476055884" y2="50.83709300429418"/>
+<line class="output_object" x1="174.1425232374844" y1="303.10648475294886" x2="174.59911942164484" y2="-2.1688318747622097"/>
+<text class="output_text" x="91.1153992498777" y="170.0331575800402">G1</text>
+<text class="output_text" x="22.07153340218514" y="56.30809371093113">G2</text>
+<text class="output_text" x="177.32238952003044" y="89.23193999021579">T</text>
+<text class="input_text" x="180.15980866445616" y="272.1394792629233">P</text>
+</svg>

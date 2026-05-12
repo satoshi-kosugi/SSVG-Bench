@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300pt" height="300pt" viewBox="0 0 300 300">
+<path fill="none" stroke-width="10" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(100%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 1688.90625 1761.601562 C 1688.90625 1907.304688 1570.820312 2025.390625 1425.117188 2025.390625 C 1279.414062 2025.390625 1161.328125 1907.304688 1161.328125 1761.601562 C 1161.328125 1615.9375 1279.414062 1497.8125 1425.117188 1497.8125 C 1570.820312 1497.8125 1688.90625 1615.9375 1688.90625 1761.601562 " transform="matrix(0.1, 0, 0, -0.1, 0, 300)"/>
+<path fill="none" stroke-width="10" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 338.476562 1361.289062 L 1027.578125 2705.234375 L 2681.484375 1336.601562 Z M 338.476562 1361.289062 " transform="matrix(0.1, 0, 0, -0.1, 0, 300)"/>
+<path fill="none" stroke-width="10" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(100%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 683.007812 2033.28125 L 1854.53125 2020.898438 L 1510 1348.984375 Z M 683.007812 2033.28125 " transform="matrix(0.1, 0, 0, -0.1, 0, 300)"/>
+</svg>

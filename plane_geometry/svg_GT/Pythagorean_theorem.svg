@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<polygon class="output_object" points="34.89464233643856 190.90992802222254 34.89464233643856 34.36977240289139 108.56059792200618 34.36977240289139"/>
+<polygon class="input_object" points="191.43479795576974 264.57588360779016 34.89464233643856 264.57588360779016 34.89464233643856 190.90992802222254"/>
+<polygon class="output_object" points="265.1007535413373 108.035727988459 265.1007535413373 264.57588360779016 191.4347979557697 264.57588360779016"/>
+<polygon class="output_object" points="108.56059792200617 34.36977240289139 265.1007535413373 34.36977240289139 265.1007535413373 108.035727988459"/>
+<text class="input_text" x="22.39905462023665" y="239.28544023082">a</text>
+<text class="input_text" x="94.29242314952654" y="275.22982243435285">b</text>
+<text class="input_text" x="103.98870455347688" y="215.53737779892262">c</text>
+</svg>

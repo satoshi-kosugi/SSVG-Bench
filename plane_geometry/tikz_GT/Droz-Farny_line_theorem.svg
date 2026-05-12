@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="305.455pt" height="248.827pt" viewBox="0 0 305.455 248.827">
+<defs>
+<clipPath id="clip-0">
+<path clip-rule="nonzero" d="M 0 96 L 305.453125 96 L 305.453125 208 L 0 208 Z M 0 96 "/>
+</clipPath>
+<clipPath id="clip-1">
+<path clip-rule="nonzero" d="M 113 0 L 207 0 L 207 248.828125 L 113 248.828125 Z M 113 0 "/>
+</clipPath>
+</defs>
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(100%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 28.851844 -188.195594 L 123.347938 -183.715125 " transform="matrix(1, 0, 0, -1, 3.238, 3.238)"/>
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(100%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 160.750281 -72.398719 L 131.1995 -42.402625 " transform="matrix(1, 0, 0, -1, 3.238, 3.238)"/>
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(100%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 102.777625 -184.4495 L 172.722938 -84.902625 " transform="matrix(1, 0, 0, -1, 3.238, 3.238)"/>
+<g clip-path="url(#clip-0)">
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M -3.038781 -198.578406 L 302.019813 -98.441687 " transform="matrix(1, 0, 0, -1, 3.238, 3.238)"/>
+</g>
+<g clip-path="url(#clip-1)">
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 197.762 -245.394812 L 116.215125 3.038781 " transform="matrix(1, 0, 0, -1, 3.238, 3.238)"/>
+</g>
+<path fill="none" stroke-width="0.3985" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 160.988563 -72.637 L 123.676063 -183.691687 L 263.812781 -177.047156 Z M 160.988563 -72.637 " transform="matrix(1, 0, 0, -1, 3.238, 3.238)"/>
+</svg>

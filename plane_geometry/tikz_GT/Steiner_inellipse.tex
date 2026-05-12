@@ -1,0 +1,11 @@
+\documentclass{standalone}
+\usepackage{tikz}
+\begin{document}
+\begin{tikzpicture}[x=1pt,y=1pt]
+\draw (37.50,-37.50) -- (262.50,-112.50) -- (112.50,-262.50) -- cycle;
+\draw[red, dash pattern=on 1pt] (150.00,-75.00) circle (2.00);
+\draw[red, dash pattern=on 1pt] (187.50,-187.50) circle (2.00);
+\draw[red, dash pattern=on 1pt] (75.00,-150.00) circle (2.00);
+\begin{scope}[shift={(137.49,-137.49)},rotate=45.00]\draw[red] ellipse (61.23 and 70.64);\end{scope}
+\end{tikzpicture}
+\end{document}

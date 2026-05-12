@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3.799999999999999 -62.939 57.507000000000005 124.694">
+<line x1="29.23" y1="29.139" x2="37.321" y2="23.261" stroke="black" stroke-width="1" />
+<line x1="29.23" y1="29.139" x2="32.321" y2="38.649" stroke="black" stroke-width="1" />
+<line x1="28.66" y1="-31.739" x2="28.66" y2="-21.739" stroke="black" stroke-width="1" />
+<line x1="28.66" y1="-31.739" x2="20" y2="-36.739000000000004" stroke="black" stroke-width="1" />
+<line x1="45.980999999999995" y1="8.261" x2="37.321" y2="13.261000000000001" stroke="black" stroke-width="1" />
+<line x1="28.66" y1="8.261" x2="28.66" y2="-1.7389999999999999" stroke="black" stroke-width="1" />
+<line x1="28.66" y1="8.261" x2="37.321" y2="13.261000000000001" stroke="black" stroke-width="1" />
+<line x1="28.66" y1="-1.7389999999999999" x2="20" y2="-6.739000000000001" stroke="black" stroke-width="1" />
+<line x1="28.66" y1="-1.7389999999999999" x2="37.321" y2="-6.739000000000001" stroke="black" stroke-width="1" />
+<line x1="37.321" y1="23.261" x2="37.321" y2="13.261000000000001" stroke="black" stroke-width="1" />
+<line x1="37.321" y1="23.261" x2="45.411" y2="29.139" stroke="black" stroke-width="1" />
+<line x1="28.66" y1="-21.739" x2="20" y2="-16.739" stroke="black" stroke-width="1" />
+<line x1="28.66" y1="-21.739" x2="37.321" y2="-16.739" stroke="black" stroke-width="1" />
+<line x1="20" y1="-6.739000000000001" x2="20" y2="-16.739" stroke="black" stroke-width="1" />
+<line x1="37.321" y1="-6.739000000000001" x2="37.321" y2="-16.739" stroke="black" stroke-width="1" />
+<line x1="32.321" y1="38.649" x2="42.321" y2="38.649" stroke="black" stroke-width="1" />
+<line x1="32.321" y1="38.649" x2="26.442999999999998" y2="46.739" stroke="black" stroke-width="1" />
+<line x1="45.411" y1="29.139" x2="42.321" y2="38.649" stroke="black" stroke-width="1" />
+<line x1="20" y1="-36.739000000000004" x2="20" y2="-46.739" stroke="black" stroke-width="1" />
+<circle cx="29.23" cy="29.139" r="1.5" fill="#FF0000" />
+<circle cx="28.66" cy="-31.739" r="1.5" fill="#FF0000" />
+<circle cx="45.980999999999995" cy="8.261" r="1.5" fill="#FF0000" />
+<circle cx="28.66" cy="8.261" r="1.5" fill="#0000FF" />
+<circle cx="28.66" cy="-1.7389999999999999" r="1.5" fill="#274A4A" />
+<circle cx="37.321" cy="23.261" r="1.5" fill="#274A4A" />
+<circle cx="28.66" cy="-21.739" r="1.5" fill="#274A4A" />
+<circle cx="20" cy="-6.739000000000001" r="1.5" fill="#274A4A" />
+<circle cx="37.321" cy="-6.739000000000001" r="1.5" fill="#274A4A" />
+<circle cx="37.321" cy="13.261000000000001" r="1.5" fill="#274A4A" />
+<circle cx="20" cy="-16.739" r="1.5" fill="#274A4A" />
+<circle cx="37.321" cy="-16.739" r="1.5" fill="#274A4A" />
+<circle cx="32.321" cy="38.649" r="1.5" fill="#274A4A" />
+<circle cx="45.411" cy="29.139" r="1.5" fill="#274A4A" />
+<circle cx="42.321" cy="38.649" r="1.5" fill="#274A4A" />
+<circle cx="20" cy="-36.739000000000004" r="1.5" fill="#274A4A" />
+<circle cx="26.442999999999998" cy="46.739" r="1.5" fill="#274A4A" />
+<circle cx="20" cy="-46.739" r="1.5" fill="#274A4A" />
+</svg>

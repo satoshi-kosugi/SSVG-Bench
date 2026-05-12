@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="10 -20.6 65.38 41.2">
+<line x1="42.69" y1="-10.600000000000001" x2="42.69" y2="-0.6" stroke="black" stroke-width="1" />
+<line x1="51.349999999999994" y1="4.4" x2="42.69" y2="-0.6" stroke="black" stroke-width="1" />
+<line x1="51.349999999999994" y1="4.4" x2="60.010000000000005" y2="-0.6" stroke="black" stroke-width="1" />
+<line x1="34.03" y1="4.4" x2="25.369" y2="-0.6" stroke="black" stroke-width="1" />
+<line x1="34.03" y1="4.4" x2="42.69" y2="-0.6" stroke="black" stroke-width="1" />
+<circle cx="42.69" cy="-10.600000000000001" r="1.5" fill="#FF0000" />
+<circle cx="51.349999999999994" cy="4.4" r="1.5" fill="#0000FF" />
+<circle cx="34.03" cy="4.4" r="1.5" fill="#0000FF" />
+<circle cx="25.369" cy="-0.6" r="1.5" fill="#0000FF" />
+<circle cx="42.69" cy="-0.6" r="1.5" fill="#274A4A" />
+<circle cx="60.010000000000005" cy="-0.6" r="1.5" fill="#274A4A" />
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+  <style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+</style>
+<circle class="input_object" cx="225.89919403344157" cy="97.67232046192709" r="68.83796463370624"/>
+<circle class="input_object" cx="56.61614338987129" cy="97.67232046192709" r="49.80151569830386"/>
+<circle cx="225.89919403344157" cy="97.67232046192709" r="2" class="input_object"/>
+<circle class="input_object" cx="225.89919403344157" cy="97.67232046192709" r="2"/>
+<circle cx="56.61614338987129" cy="97.67232046192709" r="2" class="input_object"/>
+<circle class="input_object" cx="56.61614338987129" cy="97.67232046192709" r="2"/>
+<text class="input_text" x="227.9501984843017" y="106.47179117045592">Q</text>
+<text class="input_text" x="43.353783231083845" y="106.47179117045592">P</text>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300pt" height="300pt" viewBox="0 0 300 300">
+<path fill="none" stroke-width="10" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(100%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 348.945312 1090.898438 L 348.945312 2656.289062 L 1085.625 2656.289062 Z M 348.945312 1090.898438 " transform="matrix(0.1, 0, 0, -0.1, 0, 300)"/>
+<path fill="none" stroke-width="10" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 1914.335938 354.257812 L 348.945312 354.257812 L 348.945312 1090.898438 Z M 1914.335938 354.257812 " transform="matrix(0.1, 0, 0, -0.1, 0, 300)"/>
+<path fill="none" stroke-width="10" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(100%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 2651.015625 1919.648438 L 2651.015625 354.257812 L 1914.335938 354.257812 Z M 2651.015625 1919.648438 " transform="matrix(0.1, 0, 0, -0.1, 0, 300)"/>
+<path fill="none" stroke-width="10" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(100%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 1085.625 2656.289062 L 2651.015625 2656.289062 L 2651.015625 1919.648438 Z M 1085.625 2656.289062 " transform="matrix(0.1, 0, 0, -0.1, 0, 300)"/>
+</svg>

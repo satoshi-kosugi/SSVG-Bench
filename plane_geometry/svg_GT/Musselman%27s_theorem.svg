@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<polygon class="input_object" points="229.93798507185562 197.39128820230977 104.9481971109213 197.16290987411338 146.99209031156002 149.73263024991644"/>
+<circle class="output_object" cx="106.29061606446581" cy="197.16290987411338" r="62.50324928515726"/>
+<circle class="output_object" cx="179.98997363437186" cy="112.50696275390841" r="98.48676148390211"/>
+<circle class="output_object" cx="147.3875747335586" cy="149.95543837498604" r="63.47803483233688"/>
+<circle class="output_object" cx="146.81941401463106" cy="244.74358498273236" r="2"/>
+<circle class="output_object" cx="89.73040216866575" cy="73.1033458353448" r="2"/>
+<circle class="output_object" cx="166.7997326302499" cy="89.5187344498496" r="2"/>
+<text class="input_text" x="144.70830702959634" y="160.71707081584907">A</text>
+<text class="output_text" x="168.33710869323033" y="218.42994541200935">O</text>
+<text class="output_text" x="90.76088974711277" y="144.69716662334284">M</text>
+<text class="output_text" x="151.5318058598537" y="249.8570314530803">A*</text>
+<text class="input_text" x="232.3331724163541" y="207.90226150246946">B</text>
+<text class="input_text" x="98.53689331204278" y="207.90226150246946">C</text>
+<circle class="input_object" cx="146.99209031156002" cy="149.73263024991644" r="2"/>
+<circle class="input_object" cx="229.93798507185562" cy="197.39128820230977" r="2"/>
+<circle class="input_object" cx="104.9481971109213" cy="197.16290987411338" r="2"/>
+<circle class="output_object" cx="167.41802517731813" cy="210.1916149875599" r="2"/>
+<circle class="output_object" cx="84.97344869842921" cy="138.40840729325262" r="2"/>
+<text class="output_text" x="93.24520034163912" y="79.65947491551857">B*</text>
+<text class="output_text" x="170.2755393813361" y="87.85881391808087">C*</text>
+</svg>

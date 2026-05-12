@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<polygon class="output_object" points="89.69693530079456 156.90919409761634 210.7866061293984 154.00113507377978 207.8717366628831 32.90805902383654 86.78206583427924 35.81952326901248"/>
+<polygon class="output_object" points="174.51759364358682 102.95346197502836 89.69693530079454 156.90578887627694 143.6492622020431 241.72644721906923 228.4699205448354 187.7741203178207"/>
+<line class="output_object" x1="270.2587968217934" y1="132.8955732122588" x2="89.69693530079454" y2="156.90919409761634"/>
+<circle class="additional_object" cx="148.7877412031782" cy="94.91032917139614" r="2"/>
+<circle class="additional_object" cx="167.12826333711692" cy="146.61180476730988" r="2"/>
+<circle class="additional_object" cx="159.0817253121453" cy="172.3416572077185" r="2"/>
+<circle class="additional_object" cx="270.2587968217934" cy="132.8955732122588" r="2"/>
+<polygon class="output_object" points="210.7866061293984 154.00113507377978 174.51759364358682 102.95686719636777 123.47332576617481 139.22587968217934 159.74233825198638 190.2633371169126"/>
+<polygon class="input_object" points="89.69693530079456 156.90919409761634 210.7866061293984 154.00113507377978 174.51759364358682 102.95686719636777"/>
+<text class="input_text" x="174.0783200908059" y="98.99659477866062">A</text>
+<text class="input_text" x="81.7116912599319" y="161.894438138479">B</text>
+<text class="input_text" x="215.36662883087402" y="159.41884222474462">C</text>
+<text class="output_text" x="158.44154370034053" y="168.34733257661748">Ic</text>
+<text class="output_text" x="165.79001135073779" y="142.8694665153235">Ib</text>
+<text class="output_text" x="147.45970488081727" y="91.04199772985244">Ia</text>
+<line class="output_object" x1="270.2587968217934" y1="132.8955732122588" x2="159.08172531214527" y2="172.3416572077185"/>
+<line class="output_object" x1="270.2587968217934" y1="132.8955732122588" x2="148.78774120317817" y2="94.91032917139613"/>
+</svg>

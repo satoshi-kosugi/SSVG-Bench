@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<line class="output_object" x1="129.9398155385337" y1="127.19047991245897" x2="76.19587306549946" y2="127.18461778958888"/>
+<line class="output_object" x1="111.67344067531656" y1="147.08652493356263" x2="22.23503204627169" y2="242.86188838518058"/>
+<line class="output_object" x1="163.893231202126" y1="126.86806315460372" x2="120.12662185399407" y2="33.091683601688295"/>
+<circle class="input_object" cx="147.41480381428795" cy="161.46045021103643" r="38.18586837580116"/>
+<text class="input_text" x="130.4871619509145" y="135.47066984523997">A</text>
+<text class="input_text" x="113.30961778958888" y="152.2986556198218">B</text>
+<text class="input_text" x="114.00246209160545" y="171.5285289979678">C</text>
+<text class="input_text" x="126.33912380803503" y="202.31047756760984">D</text>
+<text class="input_text" x="189.12298733781464" y="174.51240816007507">E</text>
+<text class="input_text" x="165.69841331874318" y="125.68479365327498">F</text>
+<text class="output_text" x="111.97188135063311" y="34.65651868063155">P</text>
+<text class="output_text" x="64.67721197436299" y="129.70814444270752">N</text>
+<text class="output_text" x="15.276985305612007" y="239.30481084883542">M</text>
+<line class="output_object" x1="21.930201657026732" y1="243.28982335469752" x2="129.0604971080194" y2="195.0680006252931"/>
+<line class="output_object" x1="120.00937939659217" y1="33.06823511020791" x2="111.98999531030171" y2="146.51203689229328"/>
+<line class="output_object" x1="76.12552759105832" y1="127.24910114115993" x2="110.00859778020948" y2="170.5643270282945"/>
+<polygon class="input_object" points="164.04564639674848 127.20220415819917 130.24464592777866 127.19634203532907 111.97240894169143 146.76410817570738 110.26653118649368 170.89260590901986 129.14842895107083 195.03282788807255 184.14686571830546 170.27708300765985"/>
+<line class="output_object" x1="119.87455057057997" y1="33.115132093168675" x2="21.965374394247306" y2="242.9439581053619"/>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<polygon class="input_object" points="8.571428571428571 229.05494505494505 288.9230769230769 229.05494505494505 81.57692307692308 7.137362637362637"/>
+<line class="output_object" x1="81.57692307692308" y1="7.137362637362637" x2="81.57692307692308" y2="229.05494505494505"/>
+<line class="output_object" x1="288.9230769230769" y1="229.05494505494505" x2="35.950549450549445" y2="145.8296703296703"/>
+<line class="output_object" x1="8.571428571428571" y1="229.05494505494505" x2="158.25824175824175" y2="89.20879120879121"/>
+<circle class="output_object" cx="115.17032967032968" cy="156.5274725274725" r="79.26923076923077"/>
+<circle class="output_object" cx="81.51098901098901" cy="229.74725274725273" r="2"/>
+<circle class="output_object" cx="149.0934065934066" cy="229.74725274725273" r="2"/>
+<circle class="output_object" cx="185.35714285714286" cy="117.65934065934064" r="2"/>
+<circle class="output_object" cx="158.98351648351647" cy="89.63736263736264" r="2"/>
+<circle class="output_object" cx="35.357142857142854" cy="145.68131868131866" r="2"/>
+<circle class="output_object" cx="45.247252747252745" cy="117.65934065934064" r="2"/>
+<circle class="output_object" cx="45.54395604395604" cy="194.9175824175824" r="2"/>
+<circle class="output_object" cx="184.26923076923077" cy="194.9175824175824" r="2"/>
+<circle class="output_object" cx="81.93956043956044" cy="85.49999999999999" r="2"/>
+<circle class="input_object" cx="81.57692307692308" cy="7.137362637362637" r="2"/>
+<circle class="input_object" cx="8.571428571428571" cy="229.05494505494505" r="2"/>
+<circle class="input_object" cx="288.9230769230769" cy="229.05494505494505" r="2"/>
+</svg>

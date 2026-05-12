@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+<style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+.additional_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+  stroke-dasharray: 1;
+}
+</style>
+<circle class="input_object" cx="148.61129568106313" cy="152.51162790697674" r="138.55813953488374"/>
+<circle class="additional_object" cx="149.9202657807309" cy="89.7607973421927" r="55.06976744186046"/>
+<circle class="additional_object" cx="86.08637873754154" cy="183.79401993355484" r="51.647840531561464"/>
+<circle class="additional_object" cx="90.95681063122923" cy="86.80398671096344" r="41.70764119601329"/>
+<circle class="additional_object" cx="145.05647840531563" cy="186.75083056478405" r="65.00332225913621"/>
+<polygon class="input_object" points="201.64119601328906 24.498338870431894 54.252491694352166 51.029900332225914 28.119601328903656 220.93687707641197 214.73089700996678 274.27242524916943"/>
+<line class="additional_object" x1="54.25913621262458" y1="51.029900332225914" x2="214.73089700996675" y2="274.2790697674419"/>
+<line class="additional_object" x1="201.64784053156149" y1="24.498338870431894" x2="28.119601328903656" y2="220.93687707641197"/>
+<polygon class="output_object" points="90.95681063122923 86.80398671096344 86.08637873754151 183.79401993355484 145.04983388704318 186.75083056478405 149.9202657807309 89.7607973421927"/>
+<text class="input_text" x="20.053156146179404" y="231.12292358803987">A</text>
+<text class="input_text" x="214.25913621262458" y="283.8671096345515">B</text>
+<text class="input_text" x="203.28239202657807" y="19.116279069767444">C</text>
+<text class="input_text" x="46.66445182724253" y="46.85049833887044">D</text>
+</svg>

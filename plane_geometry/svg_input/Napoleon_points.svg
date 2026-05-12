@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" viewBox="0 0 300 300">
+  <style>
+.input_object {
+  fill: none;
+  stroke: black;
+  stroke-width: 1;
+}
+.input_text {
+  fill: black;
+  stroke: none;
+  font-size: 12px;
+}
+.output_object {
+  fill: none;
+  stroke: red;
+  stroke-width: 1;
+}
+.output_text {
+  fill: red;
+  stroke: none;
+  font-size: 12px;
+}
+</style>
+<polygon class="input_object" points="25.84115523465704 148.91696750902528 167.64259927797838 148.91696750902528 131.66425992779787 81.90974729241877"/>
+<text class="input_text" x="132.043321299639" y="79.79783393501806">A</text>
+<text class="input_text" x="12.129963898916968" y="157.45126353790613">B</text>
+<text class="input_text" x="172.20216606498195" y="157.45126353790613">C</text>
+</svg>

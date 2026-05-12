@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3.799999999999999 -37.8 110.203 72.4">
+<line x1="54.804" y1="18.746000000000002" x2="54.92" y2="8.747" stroke="black" stroke-width="1" />
+<line x1="20" y1="8.4" x2="28.66" y2="3.4000000000000004" stroke="black" stroke-width="1" />
+<line x1="20" y1="8.4" x2="20" y2="18.400000000000002" stroke="black" stroke-width="1" />
+<line x1="20" y1="-11.6" x2="28.66" y2="-6.6000000000000005" stroke="black" stroke-width="1" />
+<line x1="20" y1="-11.6" x2="20" y2="-21.6" stroke="black" stroke-width="1" />
+<line x1="89.904" y1="-21.907999999999998" x2="89.942" y2="-11.908000000000001" stroke="black" stroke-width="1" />
+<line x1="63.981" y1="-6.808" x2="63.981" y2="3.608" stroke="black" stroke-width="1" />
+<line x1="63.981" y1="-6.808" x2="54.92" y2="-11.946000000000002" stroke="black" stroke-width="1" />
+<line x1="63.981" y1="-6.808" x2="72.622" y2="-11.841" stroke="black" stroke-width="1" />
+<line x1="63.981" y1="3.608" x2="54.92" y2="8.747" stroke="black" stroke-width="1" />
+<line x1="54.92" y1="8.747" x2="45.980999999999995" y2="3.4000000000000004" stroke="black" stroke-width="1" />
+<line x1="54.92" y1="-11.946000000000002" x2="45.980999999999995" y2="-6.6000000000000005" stroke="black" stroke-width="1" />
+<line x1="45.980999999999995" y1="3.4000000000000004" x2="45.980999999999995" y2="-6.6000000000000005" stroke="black" stroke-width="1" />
+<line x1="45.980999999999995" y1="3.4000000000000004" x2="37.32" y2="8.4" stroke="black" stroke-width="1" />
+<line x1="45.980999999999995" y1="-6.6000000000000005" x2="37.32" y2="-11.6" stroke="black" stroke-width="1" />
+<line x1="72.622" y1="-11.841" x2="81.301" y2="-6.875" stroke="black" stroke-width="1" />
+<line x1="37.32" y1="8.4" x2="28.66" y2="3.4000000000000004" stroke="black" stroke-width="1" />
+<line x1="37.32" y1="-11.6" x2="28.66" y2="-6.6000000000000005" stroke="black" stroke-width="1" />
+<line x1="81.301" y1="-6.875" x2="89.942" y2="-11.908000000000001" stroke="black" stroke-width="1" />
+<line x1="28.66" y1="3.4000000000000004" x2="28.66" y2="-6.6000000000000005" stroke="black" stroke-width="1" />
+<line x1="89.942" y1="-11.908000000000001" x2="98.622" y2="-6.942" stroke="black" stroke-width="1" />
+<circle cx="54.804" cy="18.746000000000002" r="1.5" fill="#FF0000" />
+<circle cx="20" cy="8.4" r="1.5" fill="#FF0000" />
+<circle cx="20" cy="-11.6" r="1.5" fill="#FF0000" />
+<circle cx="89.904" cy="-21.907999999999998" r="1.5" fill="#FF0000" />
+<circle cx="63.981" cy="-6.808" r="1.5" fill="#0000FF" />
+<circle cx="63.981" cy="3.608" r="1.5" fill="#274A4A" />
+<circle cx="54.92" cy="8.747" r="1.5" fill="#274A4A" />
+<circle cx="54.92" cy="-11.946000000000002" r="1.5" fill="#274A4A" />
+<circle cx="45.980999999999995" cy="3.4000000000000004" r="1.5" fill="#274A4A" />
+<circle cx="45.980999999999995" cy="-6.6000000000000005" r="1.5" fill="#274A4A" />
+<circle cx="72.622" cy="-11.841" r="1.5" fill="#274A4A" />
+<circle cx="37.32" cy="8.4" r="1.5" fill="#274A4A" />
+<circle cx="37.32" cy="-11.6" r="1.5" fill="#274A4A" />
+<circle cx="81.301" cy="-6.875" r="1.5" fill="#274A4A" />
+<circle cx="28.66" cy="3.4000000000000004" r="1.5" fill="#274A4A" />
+<circle cx="28.66" cy="-6.6000000000000005" r="1.5" fill="#274A4A" />
+<circle cx="89.942" cy="-11.908000000000001" r="1.5" fill="#274A4A" />
+<circle cx="98.622" cy="-6.942" r="1.5" fill="#274A4A" />
+<circle cx="20" cy="18.400000000000002" r="1.5" fill="#274A4A" />
+<circle cx="20" cy="-21.6" r="1.5" fill="#274A4A" />
+</svg>
