@@ -1,7 +1,8 @@
 # SSVG-Bench #
 
-This repository contains all the data required for SSVG-Bench, including input texts, ground-truth vector graphics, code for generating outputs using LLMs, and evaluation scripts.
+This repository contains the official implementation of our paper published in IEEE Access. [[paper](https://ieeexplore.ieee.org/document/11783335)]
 
+All the resources required for SSVG-Bench are provided, including input texts, ground-truth vector graphics, code for generating outputs using LLMs, and evaluation scripts.
 
 ## Requirements ##
 
